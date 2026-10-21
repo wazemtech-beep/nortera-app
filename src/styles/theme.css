@@ -1,0 +1,643 @@
+:root {
+  --_colors---background-color--bg-quinary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --font-family--secondary-font: "Google Sans", sans-serif;
+  --_colors---text-color--text-secondary: var(
+    --_colors---neutral-color--neutral-400
+  );
+  --body-text--body-size: 1.0625rem;
+  --body-text--body-line-height: 150%;
+  --body-text--body-weight: var(--font-weight--regular);
+  --body-text--body-letter-spacing: 0.025rem;
+  --_sizes---spacing--0: 0rem;
+  --font-family--primary-font: Merchant, Arial, sans-serif;
+  --_colors---text-color--text-primary: var(
+    --_colors---accent-color--accent-900
+  );
+  --h1-heading--h1-size: 4.375rem;
+  --h1-heading--h1-line-height: 110%;
+  --h1-heading--h1-weight: var(--font-weight--regular);
+  --h1-heading--h1-letter-spacing: -0.0625rem;
+  --h2-heading--h2-size: 2.875rem;
+  --h2-heading--h2-line-height: 115%;
+  --h2-heading--h2-weight: var(--font-weight--regular);
+  --h2-heading--h2-letter-spacing: -0.0375rem;
+  --h3-heading--h3-size: 1.875rem;
+  --h3-heading--h3-line-height: 115%;
+  --h3-heading--h3-weight: var(--font-weight--regular);
+  --h3-heading--h3-letter-spacing: -0.025rem;
+  --h4-heading--h4-size: 1.4375rem;
+  --h4-heading--h4-line-height: 125%;
+  --h4-heading--h4-weight: var(--font-weight--regular);
+  --h4-heading--h4-letter-spacing: 0.0375rem;
+  --h5-heading--h5-size: 1.25rem;
+  --h5-heading--h5-line-height: 130%;
+  --h5-heading--h5-weight: var(--font-weight--regular);
+  --h5-heading--h5-letter-spacing: 0.05rem;
+  --h6-heading--h6-size: 1.125rem;
+  --h6-heading--h6-line-height: 125%;
+  --h6-heading--h6-weight: var(--font-weight--regular);
+  --h6-heading--h6-letter-spacing: 0.05rem;
+  --_sizes---spacing--6: 1.25rem;
+  --_sizes---percentage--hundred-percentage: 100%;
+  --_sizes---viewport-heights--hundred-vh: 100vh;
+  --_sizes---container--container-gutter: var(--_sizes---spacing--11);
+  --_sizes---grid--column-five: 36.625rem;
+  --_sizes---spacing--11: 2.5rem;
+  --_colors---background-color--bg-septenary: var(
+    --_colors---neutral-color--neutral-250
+  );
+  --_sizes---grid--column-seven: 51.875rem;
+  --_sizes---spacing--21: 5rem;
+  --_sizes---grid--column-four: 29rem;
+  --_sizes---spacing--7: 1.5rem;
+  --_sizes---spacing--8: 1.75rem;
+  --_sizes---spacing--5: 1rem;
+  --_sizes---spacing--1: 0.0625rem;
+  --_colors---color-tint--neutral-500-a20: #0003;
+  --_sizes---percentage--sixty-percentage: 60%;
+  --_sizes---spacing--4: 0.75rem;
+  --_sizes---percentage--seventy-percentage: 70%;
+  --_sizes---radius--sm: var(--_sizes---spacing--4);
+  --_colors---background-color--bg-quaternary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_sizes---spacing--3: 0.5rem;
+  --_sizes---border-sizes--border-size-primary: var(--_sizes---spacing--1);
+  --_sizes---radius--xs: var(--_sizes---spacing--3);
+  --_sizes---spacing--2: 0.25rem;
+  --_colors---border-color--border-quaternary: var(
+    --_colors---accent-color--accent-500
+  );
+  --_sizes---spacing--10: 2.25rem;
+  --_colors---accent-color--accent-400: #4f7162;
+  --_colors---accent-color--accent-500: #d4ddcf;
+  --_colors---accent-color--accent-600: #34715f;
+  --_colors---accent-color--accent-900: #102c25;
+  --_colors---neutral-color--neutral-400: #4a4a4a;
+  --_colors---accent-color--accent-800: #143f37;
+  --_colors---accent-color--accent-300: #b4cfbd;
+  --_colors---accent-color--accent-200: #dce8df;
+  --_colors---accent-color--accent-100: #e8efeb;
+  --_colors---neutral-color--neutral-500: black;
+  --_colors---neutral-color--neutral-100: white;
+  --_colors---neutral-color--neutral-150: #dfdfdf;
+  --_colors---neutral-color--neutral-200: #f5f8f6;
+  --_colors---neutral-color--neutral-250: #e4ece7;
+  --_colors---neutral-color--neutral-350: #cbd9d1;
+  --_sizes---spacing--16: 3.75rem;
+  --_sizes---grid--column-three: 21.375rem;
+  --_sizes---grid--column-two: 13.75rem;
+  --_sizes---grid--column-six: 44.25rem;
+  --_sizes---grid--column-eight: 59.5rem;
+  --_sizes---grid--column-nine: 67.125rem;
+  --big-text-one--big-text-one: clamp(5rem, 10.417vw, 12.5rem);
+  --big-text-one--big-text-one-line-height: 100%;
+  --big-text-one--big-text-one-weight: var(--font-weight--regular);
+  --big-text-one--big-text-one-letter-spacing: -0.25rem;
+  --_sizes---spacing--26: 6.25rem;
+  --_sizes---spacing--9: 2rem;
+  --_colors---background-color--bg-octonary: var(
+    --_colors---neutral-color--neutral-500
+  );
+  --_sizes---spacing--51: 15rem;
+  --_sizes---spacing--17: 4rem;
+  --_sizes---percentage--zero-percentage: 0%;
+  --_colors---background-color--bg-secondary: var(
+    --_colors---accent-color--accent-800
+  );
+  --_colors---color-tint--transparent: transparent;
+  --_colors---color-tint--accent-800-a50: #143f3780;
+  --_sizes---zindex--zindex-one: 1;
+  --_sizes---zindex--zindex-two: 2;
+  --_sizes---container--container-md: 95rem;
+  --_sizes---spacing--41: 10rem;
+  --_sizes---spacing--52: 18rem;
+  --_colors---text-color--text-tertiary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_sizes---radius--xxs: var(--_sizes---spacing--2);
+  --button-text--button-size: 0.9375rem;
+  --button-text--button-line-height: 100%;
+  --button-text--button-weight: var(--font-weight--medium);
+  --button-text--button-letter-spacing: 0.025rem;
+  --sub-text--sub-size: 0.875rem;
+  --sub-text--sub-line-height: 150%;
+  --sub-text--sub-weight: var(--font-weight--medium);
+  --sub-text--sub-letter-spacing: 0.125rem;
+  --_colors---text-color--text-quaternary: var(
+    --_colors---neutral-color--neutral-350
+  );
+  --_colors---background-color--bg-primary: var(
+    --_colors---accent-color--accent-500
+  );
+  --_sizes---gap--xxl: var(--_sizes---spacing--36);
+  --_sizes---radius--md: var(--_sizes---spacing--5);
+  --_sizes---spacing--14: 3.25rem;
+  --_sizes---gap--sm: var(--_sizes---spacing--8);
+  --_colors---color-tint--neutral-400-a30: #0000004d;
+  --_sizes---gap--lg: var(--_sizes---spacing--15);
+  --_sizes---spacing--13: 3rem;
+  --_sizes---spacing--38: 9.25rem;
+  --_sizes---spacing--12: 2.75rem;
+  --_sizes---spacing--31: 7.5rem;
+  --_sizes---gap--md: var(--_sizes---spacing--11);
+  --_colors---border-color--border-primary: var(
+    --_colors---color-tint--neutral-500-a20
+  );
+  --_sizes---spacing--60: 33rem;
+  --_sizes---spacing--56: 26rem;
+  --_sizes---spacing--20: 4.75rem;
+  --_colors---border-color--border-senary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --_sizes---spacing--49: 12rem;
+  --_sizes---spacing--18: 4.25rem;
+  --_colors---border-color--border-tertiary: var(
+    --_colors---accent-color--accent-800
+  );
+  --_sizes---percentage--fifteen-percentage: 15%;
+  --_sizes---percentage--twenty-percentage: 20%;
+  --menu-text--menu-size: 1rem;
+  --menu-text--menu-line-height: 100%;
+  --menu-text--menu-weight: var(--font-weight--regular);
+  --menu-text--menu-letter-spacing: 0rem;
+  --number-text--number-text-size: clamp(1.875rem, 15vw, 6.25rem);
+  --number-text--number-text-line-height: 100%;
+  --number-text--number-text-weight: var(--font-weight--regular);
+  --number-text--number-text-letter-spacing: -0.125rem;
+  --_sizes---spacing--28: 6.75rem;
+  --_colors---color-tint--neutral-100-a20: #fff3;
+  --_sizes---percentage--twenty-five-percentage: 25%;
+  --_sizes---spacing--27: 6.5rem;
+  --_sizes---spacing--15: 3.5rem;
+  --_sizes---spacing--23: 5.5rem;
+  --_sizes---border-sizes--border-size-secondary: 0.125rem;
+  --_sizes---spacing--59: 30.5rem;
+  --_colors---text-color--text-senary: var(
+    --_colors---neutral-color--neutral-150
+  );
+  --_sizes---radius--xxxl: var(--_sizes---spacing--50);
+  --_sizes---spacing--25: 6rem;
+  --_sizes---radius--xl: var(--_sizes---percentage--hundred-percentage);
+  --_sizes---spacing--36: 8.75rem;
+  --_sizes---percentage--fifty-percentage: 50%;
+  --_sizes---percentage--ninty-percentage: 90%;
+  --_sizes---zindex--zindex-four: 4;
+  --_sizes---zindex--zindex-three: 3;
+  --_colors---color-tint--neutral-100-a40: #fff6;
+  --_colors---color-tint--neutral-100-a10: #ffffff1a;
+  --_sizes---spacing--29: 7rem;
+  --_sizes---spacing--22: 5.25rem;
+  --_sizes---spacing--34: 8.25rem;
+  --_colors---background-color--bg-senary: var(
+    --_colors---accent-color--accent-100
+  );
+  --_sizes---spacing--35: 8.5rem;
+  --_sizes---spacing--48: 11.75rem;
+  --_sizes---spacing--54: 22.5rem;
+  --_sizes---percentage--forty-percentage: 40%;
+  --_sizes---radius--lg: var(--_sizes---spacing--6);
+  --_sizes---spacing--19: 4.5rem;
+  --_sizes---extra--common-banner-height: 56.25rem;
+  --_sizes---spacing--58: 29rem;
+  --_sizes---viewport-widths--forty-vw: 40vw;
+  --_sizes---viewport-widths--fifty-vw: 50vw;
+  --_sizes---viewport-widths--ninty-vw: 90vw;
+  --_sizes---extra--home-one-case-study-card-height: 39.625rem;
+  --_sizes---spacing--53: 20rem;
+  --_sizes---spacing--57: 28rem;
+  --_sizes---percentage--thirty-percentage: 30%;
+  --_colors---border-color--border-secondary: var(
+    --_colors---color-tint--neutral-100-a20
+  );
+  --_sizes---grid--column-one: 6.125rem;
+  --_colors---text-color--text-quinary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --_colors---text-color--text-septenary: var(
+    --_colors---accent-color--accent-500
+  );
+  --_sizes---zindex--zindex-hundred: 100;
+  --_sizes---extra--cta-content-width: 48.5rem;
+  --_sizes---zindex--zindex-thousand: 1000;
+  --_sizes---percentage--eighty-percentage: 80%;
+  --_colors---background-color--bg-nonary: var(
+    --_colors---accent-color--accent-600
+  );
+  --_colors---text-color--text-octonary: var(
+    --_colors---accent-color--accent-200
+  );
+  --_sizes---spacing--55: 23rem;
+  --_sizes---gap--xs: var(--_sizes---spacing--5);
+  --_sizes---container--container-sm: 80rem;
+  --_colors---color-tint--neutral-400-a40: #0006;
+  --_sizes---zindex--zindex-five: 5;
+  --big-text-two--big-text-two-size: clamp(5rem, 10.417vw, 10rem);
+  --big-text-two--big-text-two-line-height: 100%;
+  --big-text-two--big-text-two-weight: var(--font-weight--regular);
+  --big-text-two--big-text-two-letter-spacing: -0.25rem;
+  --_colors---text-color--text-nonary: var(
+    --_colors---accent-color--accent-100
+  );
+  --font-weight--medium: 500;
+  --font-weight--regular: 400;
+  --_sizes---spacing--50: 12.5rem;
+}
+
+.w-layout-blockcontainer {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.w-layout-vflex {
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+
+.w-layout-hflex {
+  flex-direction: row;
+  align-items: flex-start;
+  display: flex;
+}
+
+.w-layout-grid {
+  grid-row-gap: 16px;
+  grid-column-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+@media screen and (max-width: 991px) {
+  .w-layout-blockcontainer {
+    max-width: 728px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .w-layout-blockcontainer {
+    max-width: none;
+  }
+}
+
+body {
+  background-color: var(--_colors---background-color--bg-quinary);
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-secondary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+  --font-family--secondary-font: "Google Sans", sans-serif;
+  --body-text--body-size: 1.0625rem;
+  --body-text--body-line-height: 150%;
+  --body-text--body-weight: var(--font-weight--regular);
+  --body-text--body-letter-spacing: 0.025rem;
+  --font-family--primary-font: Merchant, Arial, sans-serif;
+  --h1-heading--h1-size: 4.375rem;
+  --h1-heading--h1-line-height: 110%;
+  --h1-heading--h1-weight: var(--font-weight--regular);
+  --h1-heading--h1-letter-spacing: -0.0625rem;
+  --h2-heading--h2-size: 2.875rem;
+  --h2-heading--h2-line-height: 115%;
+  --h2-heading--h2-weight: var(--font-weight--regular);
+  --h2-heading--h2-letter-spacing: -0.0375rem;
+  --h3-heading--h3-size: 1.875rem;
+  --h3-heading--h3-line-height: 115%;
+  --h3-heading--h3-weight: var(--font-weight--regular);
+  --h3-heading--h3-letter-spacing: -0.025rem;
+  --h4-heading--h4-size: 1.4375rem;
+  --h4-heading--h4-line-height: 125%;
+  --h4-heading--h4-weight: var(--font-weight--regular);
+  --h4-heading--h4-letter-spacing: 0.0375rem;
+  --h5-heading--h5-size: 1.25rem;
+  --h5-heading--h5-line-height: 130%;
+  --h5-heading--h5-weight: var(--font-weight--regular);
+  --h5-heading--h5-letter-spacing: 0.05rem;
+  --h6-heading--h6-size: 1.125rem;
+  --h6-heading--h6-line-height: 125%;
+  --h6-heading--h6-weight: var(--font-weight--regular);
+  --h6-heading--h6-letter-spacing: 0.05rem;
+  --big-text-one--big-text-one: clamp(5rem, 10.417vw, 12.5rem);
+  --big-text-one--big-text-one-line-height: 100%;
+  --big-text-one--big-text-one-weight: var(--font-weight--regular);
+  --big-text-one--big-text-one-letter-spacing: -0.25rem;
+  --button-text--button-size: 0.9375rem;
+  --button-text--button-line-height: 100%;
+  --button-text--button-weight: var(--font-weight--medium);
+  --button-text--button-letter-spacing: 0.025rem;
+  --sub-text--sub-size: 0.875rem;
+  --sub-text--sub-line-height: 150%;
+  --sub-text--sub-weight: var(--font-weight--medium);
+  --sub-text--sub-letter-spacing: 0.125rem;
+  --menu-text--menu-size: 1rem;
+  --menu-text--menu-line-height: 100%;
+  --menu-text--menu-weight: var(--font-weight--regular);
+  --menu-text--menu-letter-spacing: 0rem;
+  --number-text--number-text-size: clamp(1.875rem, 15vw, 6.25rem);
+  --number-text--number-text-line-height: 100%;
+  --number-text--number-text-weight: var(--font-weight--regular);
+  --number-text--number-text-letter-spacing: -0.125rem;
+  --big-text-two--big-text-two-size: clamp(5rem, 10.417vw, 10rem);
+  --big-text-two--big-text-two-line-height: 100%;
+  --big-text-two--big-text-two-weight: var(--font-weight--regular);
+  --big-text-two--big-text-two-letter-spacing: -0.25rem;
+  --font-weight--medium: 500;
+  --font-weight--regular: 400;
+  --_colors---background-color--bg-quinary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --_colors---text-color--text-secondary: var(
+    --_colors---neutral-color--neutral-400
+  );
+  --_colors---text-color--text-primary: var(
+    --_colors---accent-color--accent-900
+  );
+  --_colors---background-color--bg-septenary: var(
+    --_colors---neutral-color--neutral-250
+  );
+  --_colors---color-tint--neutral-500-a20: #0003;
+  --_colors---background-color--bg-quaternary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_colors---border-color--border-quaternary: var(
+    --_colors---accent-color--accent-500
+  );
+  --_colors---accent-color--accent-400: #4f7162;
+  --_colors---accent-color--accent-500: #d4ddcf;
+  --_colors---accent-color--accent-600: #34715f;
+  --_colors---accent-color--accent-900: #102c25;
+  --_colors---neutral-color--neutral-400: #4a4a4a;
+  --_colors---accent-color--accent-800: #143f37;
+  --_colors---accent-color--accent-300: #b4cfbd;
+  --_colors---accent-color--accent-200: #dce8df;
+  --_colors---accent-color--accent-100: #e8efeb;
+  --_colors---neutral-color--neutral-500: black;
+  --_colors---neutral-color--neutral-100: white;
+  --_colors---neutral-color--neutral-150: #dfdfdf;
+  --_colors---neutral-color--neutral-200: #f5f8f6;
+  --_colors---neutral-color--neutral-250: #e4ece7;
+  --_colors---neutral-color--neutral-350: #cbd9d1;
+  --_colors---background-color--bg-octonary: var(
+    --_colors---neutral-color--neutral-500
+  );
+  --_colors---background-color--bg-secondary: var(
+    --_colors---accent-color--accent-800
+  );
+  --_colors---color-tint--transparent: transparent;
+  --_colors---color-tint--accent-800-a50: #143f3780;
+  --_colors---text-color--text-tertiary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_colors---text-color--text-quaternary: var(
+    --_colors---neutral-color--neutral-350
+  );
+  --_colors---background-color--bg-primary: var(
+    --_colors---accent-color--accent-500
+  );
+  --_colors---color-tint--neutral-400-a30: #0000004d;
+  --_colors---border-color--border-primary: var(
+    --_colors---color-tint--neutral-500-a20
+  );
+  --_colors---border-color--border-senary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --_colors---border-color--border-tertiary: var(
+    --_colors---accent-color--accent-800
+  );
+  --_colors---color-tint--neutral-100-a20: #fff3;
+  --_colors---text-color--text-senary: var(
+    --_colors---neutral-color--neutral-150
+  );
+  --_colors---color-tint--neutral-100-a40: #fff6;
+  --_colors---color-tint--neutral-100-a10: #ffffff1a;
+  --_colors---background-color--bg-senary: var(
+    --_colors---accent-color--accent-100
+  );
+  --_colors---border-color--border-secondary: var(
+    --_colors---color-tint--neutral-100-a20
+  );
+  --_colors---text-color--text-quinary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --_colors---text-color--text-septenary: var(
+    --_colors---accent-color--accent-500
+  );
+  --_colors---background-color--bg-nonary: var(
+    --_colors---accent-color--accent-600
+  );
+  --_colors---text-color--text-octonary: var(
+    --_colors---accent-color--accent-200
+  );
+  --_colors---color-tint--neutral-400-a40: #0006;
+  --_colors---text-color--text-nonary: var(
+    --_colors---accent-color--accent-100
+  );
+  --_sizes---spacing--0: 0rem;
+  --_sizes---spacing--6: 1.25rem;
+  --_sizes---percentage--hundred-percentage: 100%;
+  --_sizes---viewport-heights--hundred-vh: 100vh;
+  --_sizes---container--container-gutter: var(--_sizes---spacing--11);
+  --_sizes---grid--column-five: 36.625rem;
+  --_sizes---spacing--11: 2.5rem;
+  --_sizes---grid--column-seven: 51.875rem;
+  --_sizes---spacing--21: 5rem;
+  --_sizes---grid--column-four: 29rem;
+  --_sizes---spacing--7: 1.5rem;
+  --_sizes---spacing--8: 1.75rem;
+  --_sizes---spacing--5: 1rem;
+  --_sizes---spacing--1: 0.0625rem;
+  --_sizes---percentage--sixty-percentage: 60%;
+  --_sizes---spacing--4: 0.75rem;
+  --_sizes---percentage--seventy-percentage: 70%;
+  --_sizes---radius--sm: var(--_sizes---spacing--4);
+  --_sizes---spacing--3: 0.5rem;
+  --_sizes---border-sizes--border-size-primary: var(--_sizes---spacing--1);
+  --_sizes---radius--xs: var(--_sizes---spacing--3);
+  --_sizes---spacing--2: 0.25rem;
+  --_sizes---spacing--10: 2.25rem;
+  --_sizes---spacing--16: 3.75rem;
+  --_sizes---grid--column-three: 21.375rem;
+  --_sizes---grid--column-two: 13.75rem;
+  --_sizes---grid--column-six: 44.25rem;
+  --_sizes---grid--column-eight: 59.5rem;
+  --_sizes---grid--column-nine: 67.125rem;
+  --_sizes---spacing--26: 6.25rem;
+  --_sizes---spacing--9: 2rem;
+  --_sizes---spacing--51: 15rem;
+  --_sizes---spacing--17: 4rem;
+  --_sizes---percentage--zero-percentage: 0%;
+  --_sizes---zindex--zindex-one: 1;
+  --_sizes---zindex--zindex-two: 2;
+  --_sizes---container--container-md: 95rem;
+  --_sizes---spacing--41: 10rem;
+  --_sizes---spacing--52: 18rem;
+  --_sizes---radius--xxs: var(--_sizes---spacing--2);
+  --_sizes---gap--xxl: var(--_sizes---spacing--36);
+  --_sizes---radius--md: var(--_sizes---spacing--5);
+  --_sizes---spacing--14: 3.25rem;
+  --_sizes---gap--sm: var(--_sizes---spacing--8);
+  --_sizes---gap--lg: var(--_sizes---spacing--15);
+  --_sizes---spacing--13: 3rem;
+  --_sizes---spacing--38: 9.25rem;
+  --_sizes---spacing--12: 2.75rem;
+  --_sizes---spacing--31: 7.5rem;
+  --_sizes---gap--md: var(--_sizes---spacing--11);
+  --_sizes---spacing--60: 33rem;
+  --_sizes---spacing--56: 26rem;
+  --_sizes---spacing--20: 4.75rem;
+  --_sizes---spacing--49: 12rem;
+  --_sizes---spacing--18: 4.25rem;
+  --_sizes---percentage--fifteen-percentage: 15%;
+  --_sizes---percentage--twenty-percentage: 20%;
+  --_sizes---spacing--28: 6.75rem;
+  --_sizes---percentage--twenty-five-percentage: 25%;
+  --_sizes---spacing--27: 6.5rem;
+  --_sizes---spacing--15: 3.5rem;
+  --_sizes---spacing--23: 5.5rem;
+  --_sizes---border-sizes--border-size-secondary: 0.125rem;
+  --_sizes---spacing--59: 30.5rem;
+  --_sizes---radius--xxxl: var(--_sizes---spacing--50);
+  --_sizes---spacing--25: 6rem;
+  --_sizes---radius--xl: var(--_sizes---percentage--hundred-percentage);
+  --_sizes---spacing--36: 8.75rem;
+  --_sizes---percentage--fifty-percentage: 50%;
+  --_sizes---percentage--ninty-percentage: 90%;
+  --_sizes---zindex--zindex-four: 4;
+  --_sizes---zindex--zindex-three: 3;
+  --_sizes---spacing--29: 7rem;
+  --_sizes---spacing--22: 5.25rem;
+  --_sizes---spacing--34: 8.25rem;
+  --_sizes---spacing--35: 8.5rem;
+  --_sizes---spacing--48: 11.75rem;
+  --_sizes---spacing--54: 22.5rem;
+  --_sizes---percentage--forty-percentage: 40%;
+  --_sizes---radius--lg: var(--_sizes---spacing--6);
+  --_sizes---spacing--19: 4.5rem;
+  --_sizes---extra--common-banner-height: 56.25rem;
+  --_sizes---spacing--58: 29rem;
+  --_sizes---viewport-widths--forty-vw: 40vw;
+  --_sizes---viewport-widths--fifty-vw: 50vw;
+  --_sizes---viewport-widths--ninty-vw: 90vw;
+  --_sizes---extra--home-one-case-study-card-height: 39.625rem;
+  --_sizes---spacing--53: 20rem;
+  --_sizes---spacing--57: 28rem;
+  --_sizes---percentage--thirty-percentage: 30%;
+  --_sizes---grid--column-one: 6.125rem;
+  --_sizes---zindex--zindex-hundred: 100;
+  --_sizes---extra--cta-content-width: 48.5rem;
+  --_sizes---zindex--zindex-thousand: 1000;
+  --_sizes---percentage--eighty-percentage: 80%;
+  --_sizes---spacing--55: 23rem;
+  --_sizes---gap--xs: var(--_sizes---spacing--5);
+  --_sizes---container--container-sm: 80rem;
+  --_sizes---zindex--zindex-five: 5;
+  --_sizes---spacing--50: 12.5rem;
+}
+
+h1 {
+  margin-top: var(--_sizes---spacing--0);
+  margin-bottom: var(--_sizes---spacing--0);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h1-heading--h1-size);
+  line-height: var(--h1-heading--h1-line-height);
+  font-weight: var(--h1-heading--h1-weight);
+  letter-spacing: var(--h1-heading--h1-letter-spacing);
+}
+
+h2 {
+  margin-top: var(--_sizes---spacing--0);
+  margin-bottom: var(--_sizes---spacing--0);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h2-heading--h2-size);
+  line-height: var(--h2-heading--h2-line-height);
+  font-weight: var(--h2-heading--h2-weight);
+  letter-spacing: var(--h2-heading--h2-letter-spacing);
+}
+
+h3 {
+  margin-top: var(--_sizes---spacing--0);
+  margin-bottom: var(--_sizes---spacing--0);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h3-heading--h3-size);
+  line-height: var(--h3-heading--h3-line-height);
+  font-weight: var(--h3-heading--h3-weight);
+  letter-spacing: var(--h3-heading--h3-letter-spacing);
+}
+
+h4 {
+  margin-top: var(--_sizes---spacing--0);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h4-heading--h4-size);
+  line-height: var(--h4-heading--h4-line-height);
+  font-weight: var(--h4-heading--h4-weight);
+  letter-spacing: var(--h4-heading--h4-letter-spacing);
+}
+
+h5 {
+  margin-top: var(--_sizes---spacing--0);
+  margin-bottom: var(--_sizes---spacing--0);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h5-heading--h5-size);
+  line-height: var(--h5-heading--h5-line-height);
+  font-weight: var(--h5-heading--h5-weight);
+  letter-spacing: var(--h5-heading--h5-letter-spacing);
+}
+
+h6 {
+  margin-top: var(--_sizes---spacing--0);
+  margin-bottom: var(--_sizes---spacing--0);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h6-heading--h6-size);
+  line-height: var(--h6-heading--h6-line-height);
+  font-weight: var(--h6-heading--h6-weight);
+  letter-spacing: var(--h6-heading--h6-letter-spacing);
+}
+
+p {
+  margin-bottom: var(--_sizes---spacing--0);
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-secondary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+}
+
+a {
+  color: var(--_colors---text-color--text-secondary);
+  text-decoration: none;
+}
+
+ul,
+ol {
+  margin-top: var(--_sizes---spacing--0);
+  margin-bottom: var(--_sizes---spacing--0);
+  padding-left: var(--_sizes---spacing--6);
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-secondary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+}
+
+img {
+  width: var(--_sizes---percentage--hundred-percentage);
+  height: var(--_sizes---percentage--hundred-percentage);
+  max-width: var(--_sizes---percentage--hundred-percentage);
+  object-fit: cover;
+  display: inline-block;
+}

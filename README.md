@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nortera Advisory
 
-## Getting Started
+A Next.js App Router project using TypeScript, React, GSAP and Lenis.
 
-First, run the development server:
+## Development
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Install dependencies with `npm install`, then run `npm run dev`. The development port is set in `package.json`. Use `npm run build` and `npm start` for production.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Source Structure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `src/app`: route pages, metadata and the shared document layout.
+- `src/components`: typed React sections, page compositions, layout and interactive controls.
+- `src/data/siteConfig.ts`: editable brand identity and section content.
+- `src/hooks`: animation lifecycle and page/section GSAP timelines.
+- `src/components/layout/SmoothScroll.tsx`: the single Lenis instance.
+- `src/styles/index.css`: the entry point for readable site CSS, in cascade order. Route-level runtime styles remain imported after it.
+- `public`: assets referenced by the active application.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+CSS source is readable and kept locally; no exported HTML, Webflow runtime, prebuilt CSS bundle or animation interpreter is injected into pages. Existing design class names are retained as a stable interface between TSX, CSS and GSAP. Next.js compiles these source styles for production as expected.
 
-## Learn More
+Do not reorder the imports in `src/styles/index.css`: their order preserves the design cascade. Before deleting selectors, check class toggles, configuration and GSAP selectors as well as JSX.
 
-To learn more about Next.js, take a look at the following resources:
+## Routes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `/404`
+- `/about`
+- `/blog`
+- `/contact`
+- `/`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Forms are frontend controls unless a submission endpoint is explicitly configured; this cleanup does not add a backend.
 
-## Deploy on Vercel
+## Migration History
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+One-time migration scripts, old HTML/JSON snapshots and staging output are no longer part of this application. Their recovery archive is stored outside the six apps in the workspace's `.cleanup-backups` directory. Reusable migration tooling remains in `../tools/template-migration`.

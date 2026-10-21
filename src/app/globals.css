@@ -1,49 +1,177 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 html {
-  height: 100%;
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
+  scroll-behavior: auto;
 }
 
 body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-* {
-  box-sizing: border-box;
-  padding: 0;
   margin: 0;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.zeneth-site {
+  overflow-x: clip;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+.zeneth-section {
+  display: contents;
+}
+
+.zeneth-site * {
+  letter-spacing: 0;
+}
+
+.zeneth-site :focus-visible {
+  outline: 2px solid #34715f;
+  outline-offset: 5px;
+}
+
+.zeneth-site [role="button"] {
+  cursor: pointer;
+}
+
+.zeneth-site [hamburger="menu"] {
+  visibility: hidden;
+}
+
+.zeneth-site [hamburger="overlay"] {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.zeneth-site .zeneth-menu-open [hamburger="menu"],
+.zeneth-site .zeneth-menu-open [hamburger="overlay"] {
+  visibility: visible;
+}
+
+.zeneth-site .w-slider-dot {
+  padding: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+.zeneth-site .w-dropdown-toggle {
+  cursor: pointer;
+}
+
+.zeneth-site .rt-mobile-slider .w-slider-mask {
+  touch-action: pan-y;
+}
+
+.zeneth-site .rt-mobile-slider .w-slide {
+  vertical-align: top;
+}
+
+.zeneth-site [hover^="why-choose-us-v1-card-"] {
+  overflow: hidden;
+}
+
+.zeneth-site h1,
+.zeneth-site h2,
+.zeneth-site .rt-big-text-v1 {
+  overflow-wrap: break-word;
+}
+
+.zeneth-site .rt-nav-link-v1 {
+  white-space: nowrap;
+}
+
+.zeneth-site .rt-nav-link-v1:focus-visible {
+  outline-color: white;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .zeneth-site *,
+  .zeneth-site *::before,
+  .zeneth-site *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+.zeneth-site {
+  overflow-x: clip;
+}
+
+.zeneth-site .zeneth-section {
+  display: contents;
+}
+
+.zeneth-site :focus-visible {
+  outline: 2px solid #34715f;
+  outline-offset: 5px;
+}
+
+.zeneth-site [role="button"] {
+  cursor: pointer;
+}
+
+.zeneth-site [hamburger="menu"] {
+  visibility: hidden;
+}
+
+.zeneth-site [hamburger="overlay"] {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.zeneth-site .zeneth-menu-open [hamburger="menu"],
+.zeneth-site .zeneth-menu-open [hamburger="overlay"] {
+  visibility: visible;
+}
+
+.zeneth-site .zeneth-menu-open [hamburger="overlay"] {
+  pointer-events: auto;
+}
+
+.zeneth-site [faq="answer"] {
+  overflow: hidden;
+}
+
+.zeneth-site .w-slider-dot {
+  padding: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+.zeneth-site .rt-mobile-slider .w-slider-mask {
+  touch-action: pan-y;
+}
+
+.zeneth-site .rt-mobile-slider .w-slide {
+  vertical-align: top;
+}
+
+.zeneth-site .rt-nav-link-v1 {
+  white-space: nowrap;
+}
+
+.zeneth-site [hover^="why-choose-us-v1-card-"] {
+  overflow: hidden;
+}
+
+.zeneth-site [data="overlay"].rt-image-overlay {
+  transform: translateY(0);
+}
+
+.zeneth-site [data-design-only] input[type="submit"] {
+  cursor: pointer;
+}
+
+.zeneth-site [data-design-only] [hover="button"]:focus-within {
+  outline: 2px solid #34715f;
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .zeneth-site [data="overlay"].rt-image-overlay {
+    transform: translateY(100%);
+    visibility: hidden;
+  }
+
+  .zeneth-site *,
+  .zeneth-site *::before,
+  .zeneth-site *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
   }
 }

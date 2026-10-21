@@ -1,0 +1,41 @@
+.nortera-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 38px;
+  color: #143f37;
+  white-space: nowrap;
+}
+.nortera-brand__mark {
+  width: 36px;
+  height: 36px;
+  display: block;
+  object-fit: contain;
+  background-color: #143f37;
+  border-radius: 4px;
+}
+.nortera-brand__name {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-family--primary-font);
+  font-size: 26px;
+  line-height: 1;
+}
+.nortera-brand__name > span {
+  padding-top: 4px;
+  font-family: var(--font-family--secondary-font);
+  font-size: 10px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+.nortera-brand--light { color: #f5f8f6; }
+.zeneth-site .rt-footer-icon-box:hover {
+  color: #143f37;
+  background-color: #cde67a;
+}
+.zeneth-site .rt-footer-icon-box:hover .rt-footer-icon { color: #143f37; }
+.zeneth-site ::selection { color: #143f37; background-color: #cde67a; }
+@media (max-width: 479px) {
+  .nortera-brand__name { font-size: 24px; }
+  .nortera-brand__mark { width: 32px; height: 32px; }
+}
