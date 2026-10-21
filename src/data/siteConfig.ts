@@ -41,7 +41,7 @@ export const siteConfig = {
   "sections": {
     "homeHeader": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "home": "Home",
       "aboutHref": "/about",
@@ -58,7 +58,7 @@ export const siteConfig = {
       "homeOne": "Our perspective",
       "strategicFinanceForGrowth": "Strategic finance for growth",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "homeTwosmarterStrategiesStrongerResHref": "/#approach",
       "homeTwo": "Our approach",
       "smarterStrategiesStrongerResults": "Smarter strategies, stronger results",
@@ -109,7 +109,7 @@ export const siteConfig = {
       "instructions": "Instructions",
       "getStartedWithYourTemplate": "Get started with your template",
       "letSTalk": "Let's talk",
-      "zenethLogoBlackImage": "/brand/nortera-mark.png",
+      "zenethLogoBlackImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoBlackAlt": "Nortera Advisory",
       "eyebrow": "Menu",
       "eyebrow2": "Get in touch",
@@ -125,11 +125,11 @@ export const siteConfig = {
       "Href5": "https://x.com/"
     },
     "homeHome": {
-      "home1HeroBannerImageImage": "/assets/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image.avif",
+      "home1HeroBannerImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581853/wazemtech/nortera/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image-9b54d7a8c852.avif",
       "home1HeroBannerImageAlt": "home-1-hero-banner-image",
       "title": "A clearer view of what comes next",
       "homeOneBannerDashboardImageAlt": "Home-one-banner-dashboard-image",
-      "homeOneBannerDashboardImageImage": "/assets/4-6a741297ea190d933b5c2950_Banner-small-image.webp",
+      "homeOneBannerDashboardImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581852/wazemtech/nortera/4-6a741297ea190d933b5c2950_Banner-small-image-d685846ae98d.webp",
       "description": "Nortera brings clear thinking to complex business decisions. Practical planning, a considered perspective and a direction your team can work with.",
       "bookConsultationbookConsultationHref": "/contact",
       "bookConsultation": "Meet Nortera"
@@ -145,7 +145,7 @@ export const siteConfig = {
       "value20": "18+",
       "yearsOfIndustryExperience": "Years of combined perspective",
       "whoWeAre1Alt": "who-we-are-1",
-      "whoWeAre1Image": "/assets/5-6a744c76b6815eb1f0551984_who-we-are-1.avif",
+      "whoWeAre1Image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581853/wazemtech/nortera/5-6a744c76b6815eb1f0551984_who-we-are-1-2d0a50ca4895.avif",
       "value850": "48+",
       "tailoredStrategiesCreated": "Illustrative planning models",
       "exploreUsexploreUsHref": "/about",
@@ -153,7 +153,7 @@ export const siteConfig = {
       "value450": "32+",
       "clientsEmpoweredGlobally": "Business scenarios reviewed",
       "whoWeAre2Alt": "who-we-are-2",
-      "whoWeAre2Image": "/assets/6-6a744c76c15cbea785d3331f_who-we-are-2.avif"
+      "whoWeAre2Image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581854/wazemtech/nortera/6-6a744c76c15cbea785d3331f_who-we-are-2-ce7805f87873.avif"
     },
     "homeApproach": {
       "heading": "Better questions. Clearer choices. A stronger direction.",
@@ -163,16 +163,16 @@ export const siteConfig = {
       "strategicFinancialPlanning": "Business financial planning",
       "description2": "A practical framework connecting your priorities, resources and the direction you want to take.",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "homeOneApproachV1ImageAlt": "Home-one-approach-v1-image",
-      "homeOneApproachV1ImageImage": "/assets/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image.avif",
+      "homeOneApproachV1ImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581854/wazemtech/nortera/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image-74ce702819f1.avif",
       "homeOneApproachV1ImageTwoAlt": "Home-one-approach-v1-image-two",
-      "homeOneApproachV1ImageTwoImage": "/assets/8-6a86953986145104687cf75b_home-one-approach-v1-image-two.avif",
+      "homeOneApproachV1ImageTwoImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581854/wazemtech/nortera/8-6a86953986145104687cf75b_home-one-approach-v1-image-two-44510be11f4f.avif",
       "homeOneApproachV1ImageThreeAlt": "Home-one-approach-v1-image-three",
-      "homeOneApproachV1ImageThreeImage": "/assets/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three.avif",
-      "homeOneApproachDashboardImageImage": "/assets/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image.avif",
+      "homeOneApproachV1ImageThreeImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581855/wazemtech/nortera/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three-69adda481864.avif",
+      "homeOneApproachDashboardImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581856/wazemtech/nortera/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image-2f9ee6d2d25b.avif",
       "homeOneApproachDashboardImageAlt": "Home-one-approach-dashboard-image",
-      "homeOneApproachDashboardBackgroundImageImage": "/assets/11-6a868eb244100178a9be8c6c_home-one-approach-dashboard-background-image.avif",
+      "homeOneApproachDashboardBackgroundImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581856/wazemtech/nortera/8eb244100178a9be8c6c_home-one-approach-dashboard-background-image-11692349468a.avif",
       "homeOneApproachDashboardBackgroundImageAlt": "Home-one-approach-dashboard-background-image",
       "items": [
         {
@@ -193,37 +193,37 @@ export const siteConfig = {
       "items": [
         {
           "alt": "Cash flow clarity",
-          "image": "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426.avif",
           "title": "Cash flow clarity",
           "href": "/service/cash-flow-management-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c.avif",
           "title": "Business performance review",
           "href": "/service/corporate-finance-consulting-service"
         },
         {
           "alt": "Long-term scenario planning",
-          "image": "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835.avif",
           "title": "Long-term scenario planning",
           "href": "/service/retirement-planning-service"
         },
         {
           "alt": "Business financial planning",
-          "image": "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12.avif",
           "title": "Business financial planning",
           "href": "/service/strategic-financial-planning-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f.avif",
           "title": "Operational finance review",
           "href": "/service/tax-planning-advisory-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f.avif",
           "title": "Resource allocation strategy",
           "href": "/service/wealth-management-service"
         }
@@ -231,37 +231,37 @@ export const siteConfig = {
       "items2": [
         {
           "alt": "Cash flow clarity",
-          "image": "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426.avif",
           "title": "Cash flow clarity",
           "href": "/service/cash-flow-management-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c.avif",
           "title": "Business performance review",
           "href": "/service/corporate-finance-consulting-service"
         },
         {
           "alt": "Long-term scenario planning",
-          "image": "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835.avif",
           "title": "Long-term scenario planning",
           "href": "/service/retirement-planning-service"
         },
         {
           "alt": "Business financial planning",
-          "image": "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12.avif",
           "title": "Business financial planning",
           "href": "/service/strategic-financial-planning-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f.avif",
           "title": "Operational finance review",
           "href": "/service/tax-planning-advisory-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f.avif",
           "title": "Resource allocation strategy",
           "href": "/service/wealth-management-service"
         }
@@ -269,37 +269,37 @@ export const siteConfig = {
       "items3": [
         {
           "alt": "Cash flow clarity",
-          "image": "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426.avif",
           "title": "Cash flow clarity",
           "href": "/service/cash-flow-management-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c.avif",
           "title": "Business performance review",
           "href": "/service/corporate-finance-consulting-service"
         },
         {
           "alt": "Long-term scenario planning",
-          "image": "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835.avif",
           "title": "Long-term scenario planning",
           "href": "/service/retirement-planning-service"
         },
         {
           "alt": "Business financial planning",
-          "image": "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12.avif",
           "title": "Business financial planning",
           "href": "/service/strategic-financial-planning-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f.avif",
           "title": "Operational finance review",
           "href": "/service/tax-planning-advisory-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f.avif",
           "title": "Resource allocation strategy",
           "href": "/service/wealth-management-service"
         }
@@ -307,37 +307,37 @@ export const siteConfig = {
       "items4": [
         {
           "alt": "Cash flow clarity",
-          "image": "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426.avif",
           "title": "Cash flow clarity",
           "href": "/service/cash-flow-management-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c.avif",
           "title": "Business performance review",
           "href": "/service/corporate-finance-consulting-service"
         },
         {
           "alt": "Long-term scenario planning",
-          "image": "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835.avif",
           "title": "Long-term scenario planning",
           "href": "/service/retirement-planning-service"
         },
         {
           "alt": "Business financial planning",
-          "image": "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12.avif",
           "title": "Business financial planning",
           "href": "/service/strategic-financial-planning-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f.avif",
           "title": "Operational finance review",
           "href": "/service/tax-planning-advisory-service"
         },
         {
           "alt": "Business performance review",
-          "image": "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f.avif",
           "title": "Resource allocation strategy",
           "href": "/service/wealth-management-service"
         }
@@ -347,7 +347,7 @@ export const siteConfig = {
       "financialPerformance": "Illustrative efficiency scenario",
       "value35": "24%",
       "description": "An example planning model showing how different operational assumptions can affect a business. Illustrative figures are not measured client results or a forecast.",
-      "globeIconImage": "/assets/18-6a912459d89438ce1cf08a0e_globe-icon.avif",
+      "globeIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581860/wazemtech/nortera/18-6a912459d89438ce1cf08a0e_globe-icon-6156168a2199.avif",
       "globeIconAlt": "globe-icon",
       "investmentReturns": "Modelled planning scenarios",
       "value2024": "2024",
@@ -359,15 +359,15 @@ export const siteConfig = {
       "clientsAcrossMultipleMarkets": "Different markets. Shared questions.",
       "deliveringTailoredFinancialSolutionsToClientsAcrossMultipleMarket": "Exploring the decisions that connect people, resources and the next stage of a business.",
       "worldMapShowingClientPresenceAcrossMultipleMarketsAlt": "World map showing client presence across multiple markets",
-      "worldMapShowingClientPresenceAcrossMultipleMarketsImage": "/assets/19-6a82a1bc6612c03004d95441_stats-world-map.png",
-      "northAmericaFlagImage": "/assets/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1.svg",
+      "worldMapShowingClientPresenceAcrossMultipleMarketsImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581860/wazemtech/nortera/19-6a82a1bc6612c03004d95441_stats-world-map-c1324f859962.png",
+      "northAmericaFlagImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581860/wazemtech/nortera/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1-65556781a46b.svg",
       "northAmericaFlagAlt": "North America flag",
       "asiaPacific": "Asia Pacific",
-      "northAmericaFlagImage2": "/assets/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2.svg",
+      "northAmericaFlagImage2": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581861/wazemtech/nortera/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2-21514f69cd6f.svg",
       "netherlands": "Netherlands",
-      "northAmericaFlagImage3": "/assets/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3.svg",
+      "northAmericaFlagImage3": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581862/wazemtech/nortera/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3-9628cbf7f86c.svg",
       "northAmerica": "North America",
-      "northAmericaFlagImage4": "/assets/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4.svg",
+      "northAmericaFlagImage4": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581863/wazemtech/nortera/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4-9b565ac32333.svg",
       "europe": "Europe",
       "value98": "96%",
       "clientSatisfactionRate": "Illustrative feedback score",
@@ -375,7 +375,7 @@ export const siteConfig = {
     },
     "homeWhyUs": {
       "homeOneWhyChooseUsImageAlt": "Home-one-why-choose-us-image",
-      "homeOneWhyChooseUsImageImage": "/assets/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image.avif",
+      "homeOneWhyChooseUsImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581863/wazemtech/nortera/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image-e85fd25da7a5.avif",
       "whyChooseUs": "Why choose us",
       "heading": "A thoughtful partner, not another presentation",
       "description": "Clear analysis, direct conversations and a plan your team understands. Nortera keeps the thinking practical and the process transparent.",
@@ -416,17 +416,17 @@ export const siteConfig = {
       "eyebrow": "01 - Discover",
       "understandYourFinancialGoals": "Understand the bigger picture",
       "homeOneOurProcesssDiscoverImageAlt": "Home-one-our-processs-discover-image",
-      "homeOneOurProcesssDiscoverImageImage": "/assets/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image.avif",
+      "homeOneOurProcesssDiscoverImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581863/wazemtech/nortera/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image-86fed72507be.avif",
       "description": "Our process starts by understanding your objectives, challenges, and vision for long-term success.",
       "eyebrow2": "02 - Strategize",
       "createATailoredFinancialPlan": "Explore the options together",
       "homeOneOurProcesssStrategizeImageAlt": "Home-one-our-processs-strategize-image",
-      "homeOneOurProcesssStrategizeImageImage": "/assets/26-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image.avif",
+      "homeOneOurProcesssStrategizeImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581864/wazemtech/nortera/6-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image-c5e528d05e22.avif",
       "description2": "We develop personalized financial solutions that enhance performance and reduce business risks.",
       "eyebrow3": "03 - Grow",
       "implementMonitorOptimize": "Make the next step practical",
       "homeOneOurProcesssGrowImageAlt": "Home-one-our-processs-grow-image",
-      "homeOneOurProcesssGrowImageImage": "/assets/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image.avif",
+      "homeOneOurProcesssGrowImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581865/wazemtech/nortera/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image-644a82a2238f.avif",
       "description3": "Execute your financial plan with confidence while tracking progress and driving sustainable growth.",
       "slides": [
         {
@@ -456,14 +456,14 @@ export const siteConfig = {
       "caseStudies": "Case studies",
       "heading": "Illustrative scenarios. Practical ways of thinking.",
       "operationalExcellenceImprovementAlt": "Operational excellence improvement",
-      "operationalExcellenceImprovementImage": "/assets/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy.avif",
-      "operationalExcellenceImprovementImage2": "/assets/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1.avif",
+      "operationalExcellenceImprovementImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy-a0f85a2af79a.avif",
+      "operationalExcellenceImprovementImage2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1-7ffb7259e67c.avif",
       "businessGrowthStrategy": "Oakline / Planning the next stage",
       "description": "A fictional growth-planning brief exploring cash flow, capacity and the choices behind a larger business.",
       "viewCaseStudyviewCaseStudyHref": "/case-study-details/business-growth-strategy",
       "viewCaseStudy": "Explore the approach",
-      "operationalExcellenceImprovementImage3": "/assets/30-6a9529ee06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout.avif",
-      "operationalExcellenceImprovementImage4": "/assets/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4.avif",
+      "operationalExcellenceImprovementImage3": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout-73e3df0258bd.avif",
+      "operationalExcellenceImprovementImage4": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4-bcf966230968.avif",
       "manufacturingFirmRetirementRollout": "Fieldcrest / A clearer team plan",
       "description2": "An illustrative benefits-planning scenario bringing costs, priorities and long-term commitments into focus.",
       "viewCaseStudyviewCaseStudyHref2": "/case-study-details/manufacturing-firm-retirement-rollout"
@@ -472,16 +472,16 @@ export const siteConfig = {
       "testimonials": "Testimonials",
       "heading": "Good advice starts with a better conversation",
       "makennaBatorAlt": "Mila Bennett",
-      "homeOneTestimonialImageImage": "/assets/33-6a82afdda09d17de48112a8f_home-one-testimonial-image.avif",
+      "homeOneTestimonialImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581867/wazemtech/nortera/33-6a82afdda09d17de48112a8f_home-one-testimonial-image-6867a3256a01.avif",
       "homeOneTestimonialImageAlt": "Home-one-testimonial-image",
       "items": [
         {
           "className": "w-layout-hflex rt-testimonial-v2-card-wrap",
           "description": "\"The team provided clear financial strategies that improved our cash flow and helped us make smarter business decisions. Their expertise exceeded our expectations.\"",
-          "image": "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e.avif",
           "title": "Adrian Cole",
           "label": "Business Owner",
-          "image2": "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e.avif",
           "alt": "Home-one-testimonial-client-image-five",
           "title2": "Adrian Cole",
           "label2": "Business Owner"
@@ -489,10 +489,10 @@ export const siteConfig = {
         {
           "className": "w-layout-vflex rt-testimonial-v2-card-wrap",
           "description": "â€œTheir expertise gave us clarity when we needed it most. We made smarter decisions, improved our strategy, and saw real results in months.â€",
-          "image": "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
           "title": "Mila Bennett",
           "label": "Entrepreneur",
-          "image2": "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
           "alt": "Home-one-testimonial-client-image-two",
           "title2": "Mila Bennett",
           "label2": "Entrepreneur"
@@ -500,10 +500,10 @@ export const siteConfig = {
         {
           "className": "w-layout-vflex rt-testimonial-v2-card-wrap",
           "description": "\"From investment planning to financial forecasting, every recommendation was practical and results-driven. We feel more confident about our future.\"",
-          "image": "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2.avif",
           "title": "Sienna Hayes",
           "label": "Marketing director",
-          "image2": "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2.avif",
           "alt": "Home-one-testimonial-client-image-three",
           "title2": "Sienna Hayes",
           "label2": "Marketing director"
@@ -511,10 +511,10 @@ export const siteConfig = {
         {
           "className": "w-layout-vflex rt-testimonial-v2-card-wrap",
           "description": "â€œTheir financial expertise, clear communication, and dedicated support helped us overcome challenges, strengthen our strategy, and drive long-term business successâ€",
-          "image": "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5.avif",
           "title": "Oliver Grant",
           "label": "Entrepreneur",
-          "image2": "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5.avif",
           "alt": "Home-one-testimonial-client-image-four",
           "title2": "Oliver Grant",
           "label2": "Entrepreneur"
@@ -524,10 +524,10 @@ export const siteConfig = {
         {
           "className": "w-layout-hflex rt-testimonial-v2-card-wrap",
           "description": "\"The team provided clear financial strategies that improved our cash flow and helped us make smarter business decisions. Their expertise exceeded our expectations.\"",
-          "image": "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e.avif",
           "title": "Adrian Cole",
           "label": "Business Owner",
-          "image2": "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e.avif",
           "alt": "Home-one-testimonial-client-image-five",
           "title2": "Adrian Cole",
           "label2": "Business Owner"
@@ -535,10 +535,10 @@ export const siteConfig = {
         {
           "className": "w-layout-vflex rt-testimonial-v2-card-wrap",
           "description": "â€œTheir expertise gave us clarity when we needed it most. We made smarter decisions, improved our strategy, and saw real results in months.â€",
-          "image": "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
           "title": "Mila Bennett",
           "label": "Entrepreneur",
-          "image2": "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
           "alt": "Home-one-testimonial-client-image-two",
           "title2": "Mila Bennett",
           "label2": "Entrepreneur"
@@ -546,10 +546,10 @@ export const siteConfig = {
         {
           "className": "w-layout-vflex rt-testimonial-v2-card-wrap",
           "description": "\"From investment planning to financial forecasting, every recommendation was practical and results-driven. We feel more confident about our future.\"",
-          "image": "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2.avif",
           "title": "Sienna Hayes",
           "label": "Marketing director",
-          "image2": "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2.avif",
           "alt": "Home-one-testimonial-client-image-three",
           "title2": "Sienna Hayes",
           "label2": "Marketing director"
@@ -557,10 +557,10 @@ export const siteConfig = {
         {
           "className": "w-layout-vflex rt-testimonial-v2-card-wrap",
           "description": "â€œTheir financial expertise, clear communication, and dedicated support helped us overcome challenges, strengthen our strategy, and drive long-term business successâ€",
-          "image": "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5.avif",
           "title": "Oliver Grant",
           "label": "Entrepreneur",
-          "image2": "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif",
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5.avif",
           "alt": "Home-one-testimonial-client-image-four",
           "title2": "Oliver Grant",
           "label2": "Entrepreneur"
@@ -574,7 +574,7 @@ export const siteConfig = {
     },
     "homeZenethSection": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "description": "Independent business advisory. Clear thinking, practical planning and a fresh perspective on what comes next.",
       "phone": "Phone",
@@ -607,7 +607,7 @@ export const siteConfig = {
     },
     "aboutHeader": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "home": "Home",
       "aboutHref": "/about",
@@ -624,7 +624,7 @@ export const siteConfig = {
       "homeOne": "Our perspective",
       "strategicFinanceForGrowth": "Strategic finance for growth",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "homeTwosmarterStrategiesStrongerResHref": "/#approach",
       "homeTwo": "Our approach",
       "smarterStrategiesStrongerResults": "Smarter strategies, stronger results",
@@ -675,7 +675,7 @@ export const siteConfig = {
       "instructions": "Instructions",
       "getStartedWithYourTemplate": "Get started with your template",
       "letSTalk": "Let's talk",
-      "zenethLogoBlackImage": "/brand/nortera-mark.png",
+      "zenethLogoBlackImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoBlackAlt": "Nortera Advisory",
       "eyebrow": "Menu",
       "eyebrow2": "Get in touch",
@@ -691,14 +691,14 @@ export const siteConfig = {
       "Href5": "https://x.com/"
     },
     "aboutAboutHero": {
-      "aboutHeroBannerMainImageImage": "/assets/about-3-6a830727257758eceb263a36_about-hero-background-image.avif",
+      "aboutHeroBannerMainImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-3-6a830727257758eceb263a36_about-hero-background-image-ee0dfb841212.avif",
       "aboutHeroBannerMainImageAlt": "about-hero-banner-main-image",
       "aboutZeneth": "About Nortera",
       "title": "Independent thinking. A practical perspective.",
-      "investorClientHeadshotImage": "/assets/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2.png",
+      "investorClientHeadshotImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2-0c9bb20fa048.png",
       "investorClientHeadshotAlt": "Investor client headshot",
-      "investorClientHeadshotImage2": "/assets/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3.png",
-      "investorClientHeadshotImage3": "/assets/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1.png",
+      "investorClientHeadshotImage2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3-f1466056f634.png",
+      "investorClientHeadshotImage3": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1-add35da10ab6.png",
       "value45kTrustedPartners": "A people-first advisory practice",
       "aboutOurCompany": "About our company",
       "heading": "We make space for clearer decisions by connecting business priorities with the financial picture behind them.",
@@ -711,12 +711,12 @@ export const siteConfig = {
       "trustedFinancialExpertiseSupportingBusinessesAcrossDifferentSecto": "Different contexts, shared questions about resources, priorities and the direction of a business.",
       "allIndustry": "All industry",
       "financialProfessionalStandingConfidentlyInAModernOfficeAlt": "Financial professional standing confidently in a modern office",
-      "financialProfessionalStandingConfidentlyInAModernOfficeImage": "/assets/about-7-6a9ff08934447b477d536a7c_about-our-company-image.avif",
+      "financialProfessionalStandingConfidentlyInAModernOfficeImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581871/wazemtech/nortera/about-7-6a9ff08934447b477d536a7c_about-our-company-image-7a3f9ee76444.avif",
       "joinUsAndCreateMeaningfulImpact": "Join us and create meaningful impact"
     },
     "aboutValues": {
       "whatDrivesUs": "What drives us",
-      "womanInABookLinedRoomPortraitImage": "/assets/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo.png",
+      "womanInABookLinedRoomPortraitImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo-fe4a6794d41d.png",
       "womanInABookLinedRoomPortraitAlt": "Woman in a book-lined room, portrait",
       "heading": "Clarity in the analysis. Care in the conversation.",
       "description": "We begin by listening, question the assumptions and explain the thinking behind every recommendation. The aim is not a more complicated model, but a clearer understanding of the choices in front of you.",
@@ -747,7 +747,7 @@ export const siteConfig = {
       "heading": "A structured way to think things through",
       "discover": "Discover",
       "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopAlt": "Two colleagues reviewing financial goals together on a laptop",
-      "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopImage": "/assets/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1.avif",
+      "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581872/wazemtech/nortera/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1-05a7a7ed399b.avif",
       "value25": "12",
       "eyebrow": "planning perspectives",
       "description": "We assess your financial goals challenges, and opportunities to create solutions aligned with your success",
@@ -755,10 +755,10 @@ export const siteConfig = {
       "exploreMore": "Explore more",
       "analyze": "Analyze",
       "eyebrow2": "Growth",
-      "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopImage2": "/assets/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2.avif",
+      "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopImage2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581872/wazemtech/nortera/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2-9d7387cf0bbe.avif",
       "description2": "Review your financial position uncover valuable insights, and develop a clear path toward sustainable growth",
       "optimize": "Optimize",
-      "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopImage3": "/assets/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3.avif",
+      "twoColleaguesReviewingFinancialGoalsTogetherOnALaptopImage3": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581873/wazemtech/nortera/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3-bdbc5adddcce.avif",
       "description3": "Improve financial efficiency with tailored solutions that streamline operations and support sustainable business growth"
     },
     "aboutExpertise": {
@@ -772,11 +772,11 @@ export const siteConfig = {
       "businessGrowthConsulting": "Business growth consulting",
       "expertGuidanceToUnlockNewGrowthOpportunities": "Expert guidance to unlock new growth opportunities",
       "twoColleaguesReviewingInvestmentFiguresOnALaptopAlt": "Two colleagues reviewing investment figures on a laptop",
-      "twoColleaguesReviewingInvestmentFiguresOnALaptopImage": "/assets/about-12-6a9fcb6063997f7b7e416391_about-finance-image.avif",
-      "investorClientHeadshotImage": "/assets/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2.png",
+      "twoColleaguesReviewingInvestmentFiguresOnALaptopImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581874/wazemtech/nortera/about-12-6a9fcb6063997f7b7e416391_about-finance-image-42bdb42ecbd8.avif",
+      "investorClientHeadshotImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2-0c9bb20fa048.png",
       "investorClientHeadshotAlt": "Investor client headshot",
-      "investorClientHeadshotImage2": "/assets/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3.png",
-      "investorClientHeadshotImage3": "/assets/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1.png",
+      "investorClientHeadshotImage2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3-f1466056f634.png",
+      "investorClientHeadshotImage3": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1-add35da10ab6.png",
       "value205b": "48",
       "assetInvestment": "Illustrative models"
     },
@@ -786,47 +786,47 @@ export const siteConfig = {
       "providingReliableAdviceBackedByIndustryKnowledge": "Providing reliable advice backed by industry knowledge",
       "Href": "/#services",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "twoColleaguesInConversationAtAnOfficeDeskAlt": "Two colleagues in conversation at an office desk",
-      "twoColleaguesInConversationAtAnOfficeDeskImage": "/assets/about-13-6a830728b81b3ba8d9f0bed6_about-financial-challenges-experienced-financial-experts-image.avif",
+      "twoColleaguesInConversationAtAnOfficeDeskImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581875/wazemtech/nortera/d6_about-financial-challenges-experienced-financial-experts-image-d57606e38a60.avif",
       "manReviewingDocumentsOnATabletInARelaxedSettingAlt": "Man reviewing documents on a tablet in a relaxed setting",
-      "manReviewingDocumentsOnATabletInARelaxedSettingImage": "/assets/about-14-6a830727a79cd69bc80d4449_about-financial-challenges-personalized-solutions-image.avif",
+      "manReviewingDocumentsOnATabletInARelaxedSettingImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581874/wazemtech/nortera/bc80d4449_about-financial-challenges-personalized-solutions-image-f8034553bca7.avif",
       "personalizedSolutions": "Personalized solutions",
       "strategiesDesignedAroundYourSpecificFinancialGoals": "Strategies designed around your specific financial goals",
       "longTermPartnership": "Long-term partnership",
       "buildingRelationshipsFocusedOnContinuousSuccess": "Building relationships focused on continuous success",
       "twoColleaguesReviewingPlansTogetherAtATableAlt": "Two colleagues reviewing plans together at a table",
-      "twoColleaguesReviewingPlansTogetherAtATableImage": "/assets/about-15-6a8307273176fa4b7047db23_about-financial-challenges-long-term-partnership-image.avif",
+      "twoColleaguesReviewingPlansTogetherAtATableImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/4b7047db23_about-financial-challenges-long-term-partnership-image-e9f1737f3c96.avif",
       "reliableAdviceBackedByIndustryExpertise": "Reliable advice backed by industry expertise"
     },
     "aboutTestimonials": {
       "testimonials": "Testimonials",
       "heading": "The value of a clearer conversation",
       "theirFinancialExpertiseHelpedUsImproveCashFlowMakeSmart": "â€œTheir financial expertise helped us improve cash flow make smarter business decisions and achieve long-term growth through personalized consultingâ€",
-      "michaelReynoldsHeadshotImage": "/assets/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1.png",
+      "michaelReynoldsHeadshotImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1-add35da10ab6.png",
       "michaelReynoldsHeadshotAlt": "Michael Reynolds headshot",
       "michaelReynolds": "Elliot Ward",
       "founderCeo": "Founder & CEO",
       "manInANavyBlazerSmilingByAWindowAlt": "Man in a navy blazer smiling by a window",
-      "manInANavyBlazerSmilingByAWindowImage": "/assets/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1.avif",
+      "manInANavyBlazerSmilingByAWindowImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1-831e82545a61.avif",
       "partneringWithThisConsultingTeamWasAGreatDecisionTheirE": "\"Partnering with this consulting team was a great decision. Their expertise, communication, and tailored strategies helped strengthen our business.\"",
-      "aspenCurtisHeadshotImage": "/assets/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3.png",
+      "aspenCurtisHeadshotImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3-f1466056f634.png",
       "aspenCurtisHeadshotAlt": "Aspen Curtis headshot",
       "aspenCurtis": "Harper Lane",
       "managingDirector": "Managing director",
       "womanWithGlassesInADesignStudioAlt": "Woman with glasses in a design studio",
-      "womanWithGlassesInADesignStudioImage": "/assets/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2.avif",
+      "womanWithGlassesInADesignStudioImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2-4afcedd5888a.avif",
       "professionalInsightfulAndResultsFocusedTheirStrategicFi": "â€œProfessional, insightful, and results-focused their strategic financial guidance helped us overcome challenges and achieve long-term business successâ€™â€™",
-      "homeOneTestimonialClientImageTwoImage": "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif",
+      "homeOneTestimonialClientImageTwoImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
       "homeOneTestimonialClientImageTwoAlt": "Home-one-testimonial-client-image-two",
       "makennaBator": "Mila Bennett",
       "entrepreneur": "Entrepreneur",
       "womanInAnArtFilledStudioAlt": "Woman in an art-filled studio",
-      "womanInAnArtFilledStudioImage": "/assets/about-19-6a9fae0f118301788f976386_about-testimonial-image-3.avif"
+      "womanInAnArtFilledStudioImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581877/wazemtech/nortera/about-19-6a9fae0f118301788f976386_about-testimonial-image-3-3bab12212e8b.avif"
     },
     "aboutCtaGap": {
       "twoWomenSittingAtATableInAModernIndoorSettingSmilingAndAlt": "Two women sitting at a table in a modern indoor setting, smiling and looking at a laptop screen together, with drinks and a small plant on the table.",
-      "twoWomenSittingAtATableInAModernIndoorSettingSmilingAndLookingAtALaptopScreenTogetherWithDrinksAndASmallPlantOnTheTableImage": "/assets/about-20-6a85365619baac91e730ce87_pricing-cta-image.avif",
+      "twoWomenSittingAtATableInAModernIndoorSettingSmilingAndLookingAtALaptopScreenTogetherWithDrinksAndASmallPlantOnTheTableImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/about-20-6a85365619baac91e730ce87_pricing-cta-image-cdd3f3b0cf99.avif",
       "heading": "Discover better strategies for sustainable growth",
       "description": "Unlock smarter financial solutions with expert guidance and strategic planning that helps your business achieve consistent, sustainable growth.",
       "getInTouchgetInTouchHref": "/contact",
@@ -834,7 +834,7 @@ export const siteConfig = {
     },
     "aboutFooter": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "description": "Independent business advisory. Clear thinking, practical planning and a fresh perspective on what comes next.",
       "phone": "Phone",
@@ -867,7 +867,7 @@ export const siteConfig = {
     },
     "blogHeader": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "home": "Home",
       "aboutHref": "/about",
@@ -884,7 +884,7 @@ export const siteConfig = {
       "homeOne": "Our perspective",
       "strategicFinanceForGrowth": "Strategic finance for growth",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "homeTwosmarterStrategiesStrongerResHref": "/#approach",
       "homeTwo": "Our approach",
       "smarterStrategiesStrongerResults": "Smarter strategies, stronger results",
@@ -935,7 +935,7 @@ export const siteConfig = {
       "instructions": "Instructions",
       "getStartedWithYourTemplate": "Get started with your template",
       "letSTalk": "Let's talk",
-      "zenethLogoBlackImage": "/brand/nortera-mark.png",
+      "zenethLogoBlackImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoBlackAlt": "Nortera Advisory",
       "eyebrow": "Menu",
       "eyebrow2": "Get in touch",
@@ -951,7 +951,7 @@ export const siteConfig = {
       "Href5": "https://x.com/"
     },
     "blogBlogHero": {
-      "aProfessionalWomanInADarkBlazerSmilesAndEngagesInConversationWithColleaguesInAModernOfficeSettingWithLargeWindowsAndWoodenFurnitureImage": "/assets/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image.avif",
+      "aProfessionalWomanInADarkBlazerSmilesAndEngagesInConversationWithColleaguesInAModernOfficeSettingWithLargeWindowsAndWoodenFurnitureImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image-9d5f266a32d1.avif",
       "aProfessionalWomanInADarkBlazerSmilesAndEngagesInConverAlt": "A professional woman in a dark blazer smiles and engages in conversation with colleagues in a modern office setting with large windows and wooden furniture.",
       "blog": "Blog",
       "title": "Your guide to better financial planning and success",
@@ -959,46 +959,46 @@ export const siteConfig = {
       "Alt": "",
       "nonDescriptiveText": "non-descriptive text",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "items": [
         {
           "href": "/blog",
-          "image": "/assets/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3-a27888c56234.avif",
           "title": "Before the next stage, ask better questions",
           "label": "Aug 17, 2026",
           "href2": "/blog"
         },
         {
           "href": "/blog",
-          "image": "/assets/blog-5-6a9eb38feb95452345d88935_blog-card-image-1.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/blog-5-6a9eb38feb95452345d88935_blog-card-image-1-e367f920082c.avif",
           "title": "What an outside perspective can bring",
           "label": "Aug 17, 2026",
           "href2": "/blog"
         },
         {
           "href": "/blog",
-          "image": "/assets/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581879/wazemtech/nortera/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2-20f9d886f470.avif",
           "title": "A clearer plan starts with clear assumptions",
           "label": "Aug 17, 2026",
           "href2": "/blog"
         },
         {
           "href": "/blog",
-          "image": "/assets/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581880/wazemtech/nortera/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4-3bbb639fa01b.avif",
           "title": "Understanding the rhythm of your cash flow",
           "label": "Aug 18, 2026",
           "href2": "/blog"
         },
         {
           "href": "/blog",
-          "image": "/assets/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581880/wazemtech/nortera/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5-e100d5d19afd.avif",
           "title": "Thinking in scenarios, not predictions",
           "label": "Aug 18, 2026",
           "href2": "/blog"
         },
         {
           "href": "/blog",
-          "image": "/assets/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581880/wazemtech/nortera/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6-235a19c1fdac.avif",
           "title": "The value of a different point of view",
           "label": "Aug 18, 2026",
           "href2": "/blog"
@@ -1011,14 +1011,14 @@ export const siteConfig = {
       "enterYourEmailPlaceholder": "Enter your email",
       "getStartedNow": "Let's talk",
       "buttonIconLightAlt": "Button-icon-light",
-      "buttonIconLightImage": "/assets/contact-4-6a7416cf1ade939ac156a571_Button-icon.svg",
+      "buttonIconLightImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/contact-4-6a7416cf1ade939ac156a571_Button-icon-eef0cbe5123b.svg",
       "submitValue": "Submit",
       "thankYouYourSubmissionHasBeenReceived": "Thank you! Your submission has been received!",
       "oopsSomethingWentWrongWhileSubmittingTheForm": "Oops! Something went wrong while submitting the form."
     },
     "blogFooter": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "description": "Independent business advisory. Clear thinking, practical planning and a fresh perspective on what comes next.",
       "phone": "Phone",
@@ -1051,7 +1051,7 @@ export const siteConfig = {
     },
     "contactHeader": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "home": "Home",
       "aboutHref": "/about",
@@ -1068,7 +1068,7 @@ export const siteConfig = {
       "homeOne": "Our perspective",
       "strategicFinanceForGrowth": "Strategic finance for growth",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "homeTwosmarterStrategiesStrongerResHref": "/#approach",
       "homeTwo": "Our approach",
       "smarterStrategiesStrongerResults": "Smarter strategies, stronger results",
@@ -1119,7 +1119,7 @@ export const siteConfig = {
       "instructions": "Instructions",
       "getStartedWithYourTemplate": "Get started with your template",
       "letSTalk": "Let's talk",
-      "zenethLogoBlackImage": "/brand/nortera-mark.png",
+      "zenethLogoBlackImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoBlackAlt": "Nortera Advisory",
       "eyebrow": "Menu",
       "eyebrow2": "Get in touch",
@@ -1135,7 +1135,7 @@ export const siteConfig = {
       "Href5": "https://x.com/"
     },
     "contactContactHero": {
-      "contactPageHeroBannerImageImage": "/assets/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image.avif",
+      "contactPageHeroBannerImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581882/wazemtech/nortera/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image-aecc4c60bca7.avif",
       "contactPageHeroBannerImageAlt": "contact-page-hero-banner-image",
       "contactUs": "Contact us",
       "title": "Let's make the next step clearer",
@@ -1150,12 +1150,12 @@ export const siteConfig = {
       "messagePlaceholder": "Message",
       "submitNow": "Submit now",
       "buttonIconLightAlt": "Button-icon-light",
-      "buttonIconLightImage": "/assets/contact-4-6a7416cf1ade939ac156a571_Button-icon.svg",
+      "buttonIconLightImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/contact-4-6a7416cf1ade939ac156a571_Button-icon-eef0cbe5123b.svg",
       "submitValue": "Submit",
       "thankYouYourSubmissionHasBeenReceived": "Thank you! Your submission has been received!",
       "oopsSomethingWentWrongWhileSubmittingTheForm": "Oops! Something went wrong while submitting the form.",
       "eyebrow": "Your point of contact",
-      "contactAvatarImageImage": "/assets/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image.avif",
+      "contactAvatarImageImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581882/wazemtech/nortera/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image-bbb8f3efe8f9.avif",
       "contactAvatarImageAlt": "contact-avatar-image",
       "marcusWhitfield": "Daniel Mercer",
       "seniorAdvisorNewClientIntake": "Business advisory / New enquiries",
@@ -1228,14 +1228,14 @@ export const siteConfig = {
       "enterYourEmailPlaceholder": "Enter your email",
       "getStartedNow": "Let's talk",
       "buttonIconLightAlt": "Button-icon-light",
-      "buttonIconLightImage": "/assets/contact-4-6a7416cf1ade939ac156a571_Button-icon.svg",
+      "buttonIconLightImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/contact-4-6a7416cf1ade939ac156a571_Button-icon-eef0cbe5123b.svg",
       "submitValue": "Submit",
       "thankYouYourSubmissionHasBeenReceived": "Thank you! Your submission has been received!",
       "oopsSomethingWentWrongWhileSubmittingTheForm": "Oops! Something went wrong while submitting the form."
     },
     "contactFooter": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "description": "Independent business advisory. Clear thinking, practical planning and a fresh perspective on what comes next.",
       "phone": "Phone",
@@ -1268,7 +1268,7 @@ export const siteConfig = {
     },
     "page404Header": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "home": "Home",
       "aboutHref": "/about",
@@ -1285,7 +1285,7 @@ export const siteConfig = {
       "homeOne": "Our perspective",
       "strategicFinanceForGrowth": "Strategic finance for growth",
       "buttonDarkIconAlt": "Button-dark-icon",
-      "buttonDarkIconImage": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "buttonDarkIconImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
       "homeTwosmarterStrategiesStrongerResHref": "/#approach",
       "homeTwo": "Our approach",
       "smarterStrategiesStrongerResults": "Smarter strategies, stronger results",
@@ -1336,7 +1336,7 @@ export const siteConfig = {
       "instructions": "Instructions",
       "getStartedWithYourTemplate": "Get started with your template",
       "letSTalk": "Let's talk",
-      "zenethLogoBlackImage": "/brand/nortera-mark.png",
+      "zenethLogoBlackImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoBlackAlt": "Nortera Advisory",
       "eyebrow": "Menu",
       "eyebrow2": "Get in touch",
@@ -1352,7 +1352,7 @@ export const siteConfig = {
       "Href5": "https://x.com/"
     },
     "page404UtilityWrap": {
-      "leatherCardholderWalletWithACardRestingOnAKnitSweaterImage": "/assets/404-3-6a853f76d9404cabc93e96fe_404-image.avif",
+      "leatherCardholderWalletWithACardRestingOnAKnitSweaterImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581882/wazemtech/nortera/404-3-6a853f76d9404cabc93e96fe_404-image-92c77165ad04.avif",
       "leatherCardholderWalletWithACardRestingOnAKnitSweaterAlt": "Leather cardholder wallet with a card, resting on a knit sweater",
       "title": "404",
       "heading": "Oops! page not found",
@@ -1362,7 +1362,7 @@ export const siteConfig = {
     },
     "page404Footer": {
       "Href": "/",
-      "zenethLogoWhiteImage": "/brand/nortera-mark.png",
+      "zenethLogoWhiteImage": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
       "zenethLogoWhiteAlt": "Nortera Advisory",
       "description": "Independent business advisory. Clear thinking, practical planning and a fresh perspective on what comes next.",
       "phone": "Phone",
@@ -1396,7 +1396,7 @@ export const siteConfig = {
   },
   "brand": {
     "fullName": "Nortera Advisory",
-    "logo": "/brand/nortera-mark.png",
+    "logo": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
     "tagline": "Independent Business Advisory"
   }
 };

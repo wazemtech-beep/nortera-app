@@ -18,12 +18,13 @@ export default function HomeHome() {
           <Image
             image-appear="page-load"
             src={content.home1HeroBannerImageImage}
+            preload
             alt={content.home1HeroBannerImageAlt}
             className="rt-hero-v1-image-main"
             decoding="async"
             width={3800}
             height={2010}
-            sizes="(max-width: 767px) 100vw, (max-width: 1200px) 70vw, 1440px"
+            sizes="100vw"
           />
           <div className="rt-position-absolute rt-hero-v1-image-overlay"></div>
         </div>

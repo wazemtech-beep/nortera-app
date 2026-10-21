@@ -1,0 +1,1397 @@
+{
+  "cloudName": "dj4rfocct",
+  "folder": "wazemtech/nortera",
+  "assets": {
+    "/brand/nortera-mark.png": {
+      "source": "/brand/nortera-mark.png",
+      "spellings": [
+        "/brand/nortera-mark.png"
+      ],
+      "checksum": "12ecf1500d14f2dce6333cf17269b7abab523d66b42efc75fd663a69af13c598",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/nortera/nortera-mark-12ecf1500d14",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
+      "bytes": 437695,
+      "width": 1254,
+      "height": 1254,
+      "version": 1792581851,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581851/wazemtech/nortera/nortera-mark-12ecf1500d14.png",
+      "verified": true,
+      "deliveryBytes": 63704,
+      "contentType": "image/webp"
+    },
+    "/assets/4-6a741297ea190d933b5c2950_Banner-small-image.webp": {
+      "source": "/assets/4-6a741297ea190d933b5c2950_Banner-small-image.webp",
+      "spellings": [
+        "/assets/4-6a741297ea190d933b5c2950_Banner-small-image.webp"
+      ],
+      "checksum": "d685846ae98d2da2fe19a21cacf883c8eee115aeaad6befc2c70dbbb6e114e71",
+      "resourceType": "image",
+      "extension": ".webp",
+      "publicId": "wazemtech/nortera/4-6a741297ea190d933b5c2950_Banner-small-image-d685846ae98d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581852/wazemtech/nortera/4-6a741297ea190d933b5c2950_Banner-small-image-d685846ae98d.webp",
+      "bytes": 12580,
+      "width": 684,
+      "height": 398,
+      "version": 1792581852,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581852/wazemtech/nortera/4-6a741297ea190d933b5c2950_Banner-small-image-d685846ae98d.webp",
+      "verified": true,
+      "deliveryBytes": 12580,
+      "contentType": "image/webp",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581852/wazemtech/nortera/4-6a741297ea190d933b5c2950_Banner-small-image-d685846ae98d.webp"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg": {
+      "source": "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg",
+      "spellings": [
+        "/assets/1-6a858486ea21e0b2ce543e6a_button-dark-icon.svg"
+      ],
+      "checksum": "a06b5f2e732c7339c03bedeb0f42e63a0a4a5d5d4982523cae7fb84228087ff1",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
+      "bytes": 270,
+      "width": 10,
+      "height": 10,
+      "version": 1792581851,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581851/wazemtech/nortera/1-6a858486ea21e0b2ce543e6a_button-dark-icon-a06b5f2e732c.svg",
+      "verified": true,
+      "deliveryBytes": 270,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/5-6a744c76b6815eb1f0551984_who-we-are-1.avif": {
+      "source": "/assets/5-6a744c76b6815eb1f0551984_who-we-are-1.avif",
+      "spellings": [
+        "/assets/5-6a744c76b6815eb1f0551984_who-we-are-1.avif"
+      ],
+      "checksum": "2d0a50ca48957f41fee13802ccf53b8bfb04f463c3b971ed8d0e00e973128140",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/5-6a744c76b6815eb1f0551984_who-we-are-1-2d0a50ca4895",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581853/wazemtech/nortera/5-6a744c76b6815eb1f0551984_who-we-are-1-2d0a50ca4895.avif",
+      "bytes": 151466,
+      "width": 684,
+      "height": 780,
+      "version": 1792581853,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581853/wazemtech/nortera/5-6a744c76b6815eb1f0551984_who-we-are-1-2d0a50ca4895.avif",
+      "verified": true,
+      "deliveryBytes": 71404,
+      "contentType": "image/webp"
+    },
+    "/assets/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image.avif": {
+      "source": "/assets/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image.avif",
+      "spellings": [
+        "/assets/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image.avif"
+      ],
+      "checksum": "9b54d7a8c852bd8ea2adb7dd2c5598b9ce6c194947796e18454c1e44e50da0f1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image-9b54d7a8c852",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581853/wazemtech/nortera/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image-9b54d7a8c852.avif",
+      "bytes": 141074,
+      "width": 3800,
+      "height": 2010,
+      "version": 1792581853,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581853/wazemtech/nortera/3-6a95130628a7fa4559e02d92_home-1-hero-banner-image-9b54d7a8c852.avif",
+      "verified": true,
+      "deliveryBytes": 48946,
+      "contentType": "image/webp"
+    },
+    "/assets/6-6a744c76c15cbea785d3331f_who-we-are-2.avif": {
+      "source": "/assets/6-6a744c76c15cbea785d3331f_who-we-are-2.avif",
+      "spellings": [
+        "/assets/6-6a744c76c15cbea785d3331f_who-we-are-2.avif"
+      ],
+      "checksum": "ce7805f87873c3894586840794df9e95017ba7015259db971acbce57a7d46b4d",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/6-6a744c76c15cbea785d3331f_who-we-are-2-ce7805f87873",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581854/wazemtech/nortera/6-6a744c76c15cbea785d3331f_who-we-are-2-ce7805f87873.avif",
+      "bytes": 118893,
+      "width": 684,
+      "height": 780,
+      "version": 1792581854,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581854/wazemtech/nortera/6-6a744c76c15cbea785d3331f_who-we-are-2-ce7805f87873.avif",
+      "verified": true,
+      "deliveryBytes": 33630,
+      "contentType": "image/webp"
+    },
+    "/assets/8-6a86953986145104687cf75b_home-one-approach-v1-image-two.avif": {
+      "source": "/assets/8-6a86953986145104687cf75b_home-one-approach-v1-image-two.avif",
+      "spellings": [
+        "/assets/8-6a86953986145104687cf75b_home-one-approach-v1-image-two.avif"
+      ],
+      "checksum": "44510be11f4fad59edd1081a0748a704f50a8e0e12d0052b62cd6d79a8d0b454",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/8-6a86953986145104687cf75b_home-one-approach-v1-image-two-44510be11f4f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581854/wazemtech/nortera/8-6a86953986145104687cf75b_home-one-approach-v1-image-two-44510be11f4f.avif",
+      "bytes": 151645,
+      "width": 1416,
+      "height": 1362,
+      "version": 1792581854,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581854/wazemtech/nortera/8-6a86953986145104687cf75b_home-one-approach-v1-image-two-44510be11f4f.avif",
+      "verified": true,
+      "deliveryBytes": 77530,
+      "contentType": "image/webp"
+    },
+    "/assets/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image.avif": {
+      "source": "/assets/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image.avif",
+      "spellings": [
+        "/assets/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image.avif"
+      ],
+      "checksum": "74ce702819f1c0a2b46483f3cf9135253bcf570a1b00b79f6006fa61c21fa4ec",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image-74ce702819f1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581854/wazemtech/nortera/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image-74ce702819f1.avif",
+      "bytes": 152838,
+      "width": 1416,
+      "height": 1362,
+      "version": 1792581854,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581854/wazemtech/nortera/7-6a7d5c61f50a71ab5b229cb3_home-one-approach-v1-image-74ce702819f1.avif",
+      "verified": true,
+      "deliveryBytes": 127754,
+      "contentType": "image/webp"
+    },
+    "/assets/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three.avif": {
+      "source": "/assets/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three.avif",
+      "spellings": [
+        "/assets/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three.avif"
+      ],
+      "checksum": "69adda4818642cb180e8b79450c777fd95c941ccc121bb82ac270e5d141cbc2a",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three-69adda481864",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581855/wazemtech/nortera/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three-69adda481864.avif",
+      "bytes": 146985,
+      "width": 1416,
+      "height": 1362,
+      "version": 1792581855,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581855/wazemtech/nortera/9-6a86953800b4438be0db49cc_home-one-approach-v1-image-three-69adda481864.avif",
+      "verified": true,
+      "deliveryBytes": 105640,
+      "contentType": "image/webp"
+    },
+    "/assets/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image.avif": {
+      "source": "/assets/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image.avif",
+      "spellings": [
+        "/assets/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image.avif"
+      ],
+      "checksum": "2f9ee6d2d25b99af842708866573668743368e587de3d14f30f97f582f6f714c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image-2f9ee6d2d25b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581856/wazemtech/nortera/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image-2f9ee6d2d25b.avif",
+      "bytes": 12795,
+      "width": 509,
+      "height": 244,
+      "version": 1792581856,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581856/wazemtech/nortera/10-6a868eb2d233a065c83f1412_home-one-approach-dashboard-image-2f9ee6d2d25b.avif",
+      "verified": true,
+      "deliveryBytes": 5538,
+      "contentType": "image/webp"
+    },
+    "/assets/11-6a868eb244100178a9be8c6c_home-one-approach-dashboard-background-image.avif": {
+      "source": "/assets/11-6a868eb244100178a9be8c6c_home-one-approach-dashboard-background-image.avif",
+      "spellings": [
+        "/assets/11-6a868eb244100178a9be8c6c_home-one-approach-dashboard-background-image.avif"
+      ],
+      "checksum": "11692349468af5d7eeead6a218a68ae26c472e50d44e9aa7013b643830f3f1bd",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/8eb244100178a9be8c6c_home-one-approach-dashboard-background-image-11692349468a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581856/wazemtech/nortera/8eb244100178a9be8c6c_home-one-approach-dashboard-background-image-11692349468a.avif",
+      "bytes": 89470,
+      "width": 810,
+      "height": 422,
+      "version": 1792581856,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581856/wazemtech/nortera/8eb244100178a9be8c6c_home-one-approach-dashboard-background-image-11692349468a.avif",
+      "verified": true,
+      "deliveryBytes": 2818,
+      "contentType": "image/webp"
+    },
+    "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif": {
+      "source": "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif",
+      "spellings": [
+        "/assets/13-6a95177491c0f7146cd415fe_home-1-service-image-4.avif"
+      ],
+      "checksum": "95270e65000c44db40a1dd80bc8fd6542c6919adf4bb2df2b136ff5b4fedfd60",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581857/wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c.avif",
+      "bytes": 114430,
+      "width": 928,
+      "height": 1000,
+      "version": 1792581857,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/13-6a95177491c0f7146cd415fe_home-1-service-image-4-95270e65000c.avif",
+      "verified": true,
+      "deliveryBytes": 56170,
+      "contentType": "image/webp"
+    },
+    "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif": {
+      "source": "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif",
+      "spellings": [
+        "/assets/12-6a9516fcde5c4985500d125b_home-1-service-image-1.avif"
+      ],
+      "checksum": "744a46e044262195dd02fa53c9d1affe3cc4b1d117cee800a44dfcaaca57bdf7",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581857/wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426.avif",
+      "bytes": 77547,
+      "width": 928,
+      "height": 1000,
+      "version": 1792581857,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581857/wazemtech/nortera/12-6a9516fcde5c4985500d125b_home-1-service-image-1-744a46e04426.avif",
+      "verified": true,
+      "deliveryBytes": 54574,
+      "contentType": "image/webp"
+    },
+    "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif": {
+      "source": "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif",
+      "spellings": [
+        "/assets/14-6a951763400cc970a11b6254_home-1-service-image-3.avif"
+      ],
+      "checksum": "62e295ab8835640a1637a179fc3a284da78b3e94ac58f916259ab726178f98eb",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581858/wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835.avif",
+      "bytes": 104085,
+      "width": 928,
+      "height": 1000,
+      "version": 1792581858,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/14-6a951763400cc970a11b6254_home-1-service-image-3-62e295ab8835.avif",
+      "verified": true,
+      "deliveryBytes": 83698,
+      "contentType": "image/webp"
+    },
+    "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif": {
+      "source": "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif",
+      "spellings": [
+        "/assets/15-6a9517477e99d02e2e1d937b_home-1-service-image-2.avif"
+      ],
+      "checksum": "cf01643f0b1290c4b04c88095eb0bbdc7162739d4380a733bae49ccdb365d11e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581858/wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12.avif",
+      "bytes": 104408,
+      "width": 928,
+      "height": 1000,
+      "version": 1792581858,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581858/wazemtech/nortera/15-6a9517477e99d02e2e1d937b_home-1-service-image-2-cf01643f0b12.avif",
+      "verified": true,
+      "deliveryBytes": 52150,
+      "contentType": "image/webp"
+    },
+    "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif": {
+      "source": "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif",
+      "spellings": [
+        "/assets/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6.avif"
+      ],
+      "checksum": "a0136812e47f36016944e852765c1a5238fad493d4bb2469fd1cf404dd19c0f9",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581859/wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f.avif",
+      "bytes": 72520,
+      "width": 928,
+      "height": 1000,
+      "version": 1792581859,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/16-6a9517e86586d8f094ef0cd3_home-1-service-image-6-a0136812e47f.avif",
+      "verified": true,
+      "deliveryBytes": 47740,
+      "contentType": "image/webp"
+    },
+    "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif": {
+      "source": "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif",
+      "spellings": [
+        "/assets/17-6a9517d4de5c4985500d4c36_home-1-service-image-5.avif"
+      ],
+      "checksum": "f0baf968a29f063da857697dafaeca46154a0ebdd200d94560a75561306d65b1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581859/wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f.avif",
+      "bytes": 68955,
+      "width": 928,
+      "height": 1000,
+      "version": 1792581859,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581859/wazemtech/nortera/17-6a9517d4de5c4985500d4c36_home-1-service-image-5-f0baf968a29f.avif",
+      "verified": true,
+      "deliveryBytes": 53254,
+      "contentType": "image/webp"
+    },
+    "/assets/18-6a912459d89438ce1cf08a0e_globe-icon.avif": {
+      "source": "/assets/18-6a912459d89438ce1cf08a0e_globe-icon.avif",
+      "spellings": [
+        "/assets/18-6a912459d89438ce1cf08a0e_globe-icon.avif"
+      ],
+      "checksum": "6156168a2199073650a4c2a72a4f1b3797f5802ca7468f65baf10c476f704f24",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/18-6a912459d89438ce1cf08a0e_globe-icon-6156168a2199",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581860/wazemtech/nortera/18-6a912459d89438ce1cf08a0e_globe-icon-6156168a2199.avif",
+      "bytes": 112518,
+      "width": 414,
+      "height": 409,
+      "version": 1792581860,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581860/wazemtech/nortera/18-6a912459d89438ce1cf08a0e_globe-icon-6156168a2199.avif",
+      "verified": true,
+      "deliveryBytes": 15712,
+      "contentType": "image/webp"
+    },
+    "/assets/19-6a82a1bc6612c03004d95441_stats-world-map.png": {
+      "source": "/assets/19-6a82a1bc6612c03004d95441_stats-world-map.png",
+      "spellings": [
+        "/assets/19-6a82a1bc6612c03004d95441_stats-world-map.png"
+      ],
+      "checksum": "c1324f8599622d7a0a7b0a442159fcc90d0bee57ab5a01cc16a1d2b8faae99bd",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/nortera/19-6a82a1bc6612c03004d95441_stats-world-map-c1324f859962",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581860/wazemtech/nortera/19-6a82a1bc6612c03004d95441_stats-world-map-c1324f859962.png",
+      "bytes": 123008,
+      "width": 600,
+      "height": 400,
+      "version": 1792581860,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581860/wazemtech/nortera/19-6a82a1bc6612c03004d95441_stats-world-map-c1324f859962.png",
+      "verified": true,
+      "deliveryBytes": 28036,
+      "contentType": "image/webp"
+    },
+    "/assets/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1.svg": {
+      "source": "/assets/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1.svg",
+      "spellings": [
+        "/assets/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1.svg"
+      ],
+      "checksum": "65556781a46b2bab22b96ef660da931498717dfcb6ecbce4ec406f5ea4d0e0d4",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/nortera/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1-65556781a46b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581860/wazemtech/nortera/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1-65556781a46b.svg",
+      "bytes": 46789,
+      "width": 21,
+      "height": 21,
+      "version": 1792581860,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581860/wazemtech/nortera/20-6a9147e45193cfcf2465a327_home-1-client-logo-icon-1-65556781a46b.svg",
+      "verified": true,
+      "deliveryBytes": 46789,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2.svg": {
+      "source": "/assets/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2.svg",
+      "spellings": [
+        "/assets/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2.svg"
+      ],
+      "checksum": "21514f69cd6f8e35ba6be88e9a9db441833fbac2fba199522b06993497357321",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/nortera/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2-21514f69cd6f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581861/wazemtech/nortera/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2-21514f69cd6f.svg",
+      "bytes": 28853,
+      "width": 21,
+      "height": 21,
+      "version": 1792581861,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581861/wazemtech/nortera/21-6a9147e46e11c7fa4592fade_home-1-client-logo-icon-2-21514f69cd6f.svg",
+      "verified": true,
+      "deliveryBytes": 28853,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image.avif": {
+      "source": "/assets/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image.avif",
+      "spellings": [
+        "/assets/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image.avif"
+      ],
+      "checksum": "e85fd25da7a5b3aae53e96050d396cdaa8b33d7938a680a9ab0a08ff8f4e7a52",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image-e85fd25da7a5",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581863/wazemtech/nortera/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image-e85fd25da7a5.avif",
+      "bytes": 147354,
+      "width": 1416,
+      "height": 1574,
+      "version": 1792581863,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581863/wazemtech/nortera/24-6a7d8e5a26f257f0626740ab_home-one-why-choose-us-image-e85fd25da7a5.avif",
+      "verified": true,
+      "deliveryBytes": 117700,
+      "contentType": "image/webp"
+    },
+    "/assets/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image.avif": {
+      "source": "/assets/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image.avif",
+      "spellings": [
+        "/assets/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image.avif"
+      ],
+      "checksum": "86fed72507befac57c5d3de3d3a1d16f9ffed65a373b0a47aa6467e3bab78313",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image-86fed72507be",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581863/wazemtech/nortera/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image-86fed72507be.avif",
+      "bytes": 146676,
+      "width": 734,
+      "height": 428,
+      "version": 1792581863,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581863/wazemtech/nortera/25-6a7db604a58aec566548be00_home-one-our-processs-discover-image-86fed72507be.avif",
+      "verified": true,
+      "deliveryBytes": 24822,
+      "contentType": "image/webp"
+    },
+    "/assets/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3.svg": {
+      "source": "/assets/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3.svg",
+      "spellings": [
+        "/assets/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3.svg"
+      ],
+      "checksum": "9628cbf7f86c2bbbdaa81dbf14e4f793f5da8e4a711bb363ce8264e231b425ea",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/nortera/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3-9628cbf7f86c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581862/wazemtech/nortera/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3-9628cbf7f86c.svg",
+      "bytes": 45957,
+      "width": 21,
+      "height": 21,
+      "version": 1792581862,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581862/wazemtech/nortera/22-6a9147e5326dade61ccab03f_home-1-client-logo-icon-3-9628cbf7f86c.svg",
+      "verified": true,
+      "deliveryBytes": 45957,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4.svg": {
+      "source": "/assets/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4.svg",
+      "spellings": [
+        "/assets/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4.svg"
+      ],
+      "checksum": "9b565ac323334d8a8f827d8e7074e21f951f336df48adf520ca3854c6b820e01",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/nortera/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4-9b565ac32333",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581863/wazemtech/nortera/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4-9b565ac32333.svg",
+      "bytes": 48325,
+      "width": 21,
+      "height": 21,
+      "version": 1792581863,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581863/wazemtech/nortera/23-6a9147e5174b7b6b042eda2b_home-1-client-logo-icon-4-9b565ac32333.svg",
+      "verified": true,
+      "deliveryBytes": 48325,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/26-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image.avif": {
+      "source": "/assets/26-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image.avif",
+      "spellings": [
+        "/assets/26-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image.avif"
+      ],
+      "checksum": "c5e528d05e2263214aa488f1f7e9f6adcfc5dc71eba6a8547f7eaf6e87eb2edd",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/6-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image-c5e528d05e22",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581864/wazemtech/nortera/6-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image-c5e528d05e22.avif",
+      "bytes": 124660,
+      "width": 734,
+      "height": 428,
+      "version": 1792581864,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581864/wazemtech/nortera/6-6a7db604797323dc5fcac9bd_home-one-our-processs-strategize-image-c5e528d05e22.avif",
+      "verified": true,
+      "deliveryBytes": 18534,
+      "contentType": "image/webp"
+    },
+    "/assets/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image.avif": {
+      "source": "/assets/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image.avif",
+      "spellings": [
+        "/assets/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image.avif"
+      ],
+      "checksum": "644a82a2238f8d1b429d584f16986d5a11a892b6ed7ce958c0fa78ec5bd71ef2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image-644a82a2238f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581865/wazemtech/nortera/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image-644a82a2238f.avif",
+      "bytes": 128673,
+      "width": 734,
+      "height": 428,
+      "version": 1792581865,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581865/wazemtech/nortera/27-6a7db60490726bbfe5bbf9ea_home-one-our-processs-grow-image-644a82a2238f.avif",
+      "verified": true,
+      "deliveryBytes": 18068,
+      "contentType": "image/webp"
+    },
+    "/assets/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy.avif": {
+      "source": "/assets/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy.avif",
+      "spellings": [
+        "/assets/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy.avif"
+      ],
+      "checksum": "a0f85a2af79aeca7b3495edc7889581ea39777d5525bc17285a39e441c775c56",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy-a0f85a2af79a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581866/wazemtech/nortera/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy-a0f85a2af79a.avif",
+      "bytes": 117877,
+      "width": 2880,
+      "height": 1252,
+      "version": 1792581866,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/28-6a952a5a91c0f7146cdd43ce_case-study-business-growth-strategy-a0f85a2af79a.avif",
+      "verified": true,
+      "deliveryBytes": 72328,
+      "contentType": "image/webp"
+    },
+    "/assets/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1.avif": {
+      "source": "/assets/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1.avif",
+      "spellings": [
+        "/assets/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1.avif"
+      ],
+      "checksum": "7ffb7259e67c3b8c6471ee896ab6fc80d835caf1ceffb017d25e8601f641d979",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1-7ffb7259e67c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581866/wazemtech/nortera/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1-7ffb7259e67c.avif",
+      "bytes": 15479,
+      "width": 490,
+      "height": 340,
+      "version": 1792581866,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/29-6a952e6a2ec0b77e483b04c2_case-study-graph-1-7ffb7259e67c.avif",
+      "verified": true,
+      "deliveryBytes": 4232,
+      "contentType": "image/webp"
+    },
+    "/assets/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4.avif": {
+      "source": "/assets/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4.avif",
+      "spellings": [
+        "/assets/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4.avif"
+      ],
+      "checksum": "bcf966230968ea4a987f1cf40aa18e2fe1e1a7dba3f90740fb0d78e7c5236d3c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4-bcf966230968",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581866/wazemtech/nortera/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4-bcf966230968.avif",
+      "bytes": 2985,
+      "width": 292,
+      "height": 214,
+      "version": 1792581866,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/31-6a9cf34fbde9c565bb9595b2_case-study-graph-4-bcf966230968.avif",
+      "verified": true,
+      "deliveryBytes": 1914,
+      "contentType": "image/webp"
+    },
+    "/assets/30-6a9529ee06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout.avif": {
+      "source": "/assets/30-6a9529ee06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout.avif",
+      "spellings": [
+        "/assets/30-6a9529ee06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout.avif"
+      ],
+      "checksum": "73e3df0258bda7a19c2c1dc35e24f8522a8b8bcc04117426d41c4aee16719772",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout-73e3df0258bd",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581866/wazemtech/nortera/06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout-73e3df0258bd.avif",
+      "bytes": 131952,
+      "width": 2880,
+      "height": 1252,
+      "version": 1792581866,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581866/wazemtech/nortera/06dd7d4ff4f770c0_case-study-manufacturing-firm-retirement-rollout-73e3df0258bd.avif",
+      "verified": true,
+      "deliveryBytes": 55524,
+      "contentType": "image/webp"
+    },
+    "/assets/33-6a82afdda09d17de48112a8f_home-one-testimonial-image.avif": {
+      "source": "/assets/33-6a82afdda09d17de48112a8f_home-one-testimonial-image.avif",
+      "spellings": [
+        "/assets/33-6a82afdda09d17de48112a8f_home-one-testimonial-image.avif"
+      ],
+      "checksum": "6867a3256a01b520a8b6d8bf461b2d4585910a66b274acb91a7f4d01e2ff5584",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/33-6a82afdda09d17de48112a8f_home-one-testimonial-image-6867a3256a01",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581867/wazemtech/nortera/33-6a82afdda09d17de48112a8f_home-one-testimonial-image-6867a3256a01.avif",
+      "bytes": 149851,
+      "width": 928,
+      "height": 936,
+      "version": 1792581867,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581867/wazemtech/nortera/33-6a82afdda09d17de48112a8f_home-one-testimonial-image-6867a3256a01.avif",
+      "verified": true,
+      "deliveryBytes": 72638,
+      "contentType": "image/webp"
+    },
+    "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif": {
+      "source": "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif",
+      "spellings": [
+        "/assets/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two.avif"
+      ],
+      "checksum": "b10337be6b970db04b4931385a3dda339958cb79774d9a8920e4bf8be4231c7c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
+      "bytes": 11004,
+      "width": 112,
+      "height": 112,
+      "version": 1792581868,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/34-6a82afdc93a58a9216029127_home-one-testimonial-client-image-two-b10337be6b97.avif",
+      "verified": true,
+      "deliveryBytes": 2252,
+      "contentType": "image/webp"
+    },
+    "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif": {
+      "source": "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif",
+      "spellings": [
+        "/assets/32-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five.avif"
+      ],
+      "checksum": "5541828a082e7621ac064c657cf56c403f59c8d122c013fb2d31a10fa496210b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581868/wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e.avif",
+      "bytes": 9906,
+      "width": 112,
+      "height": 112,
+      "version": 1792581868,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/2-6a82afdc9d6c4574bf54e9c4_home-one-testimonial-client-image-five-5541828a082e.avif",
+      "verified": true,
+      "deliveryBytes": 1944,
+      "contentType": "image/webp"
+    },
+    "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif": {
+      "source": "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif",
+      "spellings": [
+        "/assets/35-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three.avif"
+      ],
+      "checksum": "4b43b4d167e2a16990b93cce8c3cdbd58e0bdff8d7710695c0f31761446f4ef9",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581868/wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2.avif",
+      "bytes": 10348,
+      "width": 112,
+      "height": 112,
+      "version": 1792581868,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/-6a82afdc93a58a921602912b_home-one-testimonial-client-image-three-4b43b4d167e2.avif",
+      "verified": true,
+      "deliveryBytes": 1898,
+      "contentType": "image/webp"
+    },
+    "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif": {
+      "source": "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif",
+      "spellings": [
+        "/assets/36-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four.avif"
+      ],
+      "checksum": "1b868dda82f5092e3936b59d7da34ed29c08dfbd519864c282c5ded64c337864",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581868/wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5.avif",
+      "bytes": 10326,
+      "width": 112,
+      "height": 112,
+      "version": 1792581868,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581868/wazemtech/nortera/6-6a82afdc7dea1c4e49b095b5_home-one-testimonial-client-image-four-1b868dda82f5.avif",
+      "verified": true,
+      "deliveryBytes": 1762,
+      "contentType": "image/webp"
+    },
+    "/assets/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2.png": {
+      "source": "/assets/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2.png",
+      "spellings": [
+        "/assets/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2.png"
+      ],
+      "checksum": "0c9bb20fa048594c50dc33a82b7431e64e023a0a966ed2c127e8e232c8652dce",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/nortera/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2-0c9bb20fa048",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581870/wazemtech/nortera/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2-0c9bb20fa048.png",
+      "bytes": 24414,
+      "width": 120,
+      "height": 120,
+      "version": 1792581870,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-4-6a83eed3587ba9f0eba13215_about-testimonial-avatar-2-0c9bb20fa048.png",
+      "verified": true,
+      "deliveryBytes": 3280,
+      "contentType": "image/webp"
+    },
+    "/assets/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3.png": {
+      "source": "/assets/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3.png",
+      "spellings": [
+        "/assets/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3.png"
+      ],
+      "checksum": "f1466056f6347a0a801e5296ec117e2574a05d4a0419965c14bba0bd3a971387",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/nortera/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3-f1466056f634",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581870/wazemtech/nortera/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3-f1466056f634.png",
+      "bytes": 22620,
+      "width": 120,
+      "height": 120,
+      "version": 1792581870,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-5-6a83eed4f63f30b4253e251d_about-testimonial-avatar-3-f1466056f634.png",
+      "verified": true,
+      "deliveryBytes": 3714,
+      "contentType": "image/webp"
+    },
+    "/assets/about-3-6a830727257758eceb263a36_about-hero-background-image.avif": {
+      "source": "/assets/about-3-6a830727257758eceb263a36_about-hero-background-image.avif",
+      "spellings": [
+        "/assets/about-3-6a830727257758eceb263a36_about-hero-background-image.avif"
+      ],
+      "checksum": "ee0dfb841212349a8043ed8510f2ddf9c65e83ff2f3d2d141847292b6a0da2a2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-3-6a830727257758eceb263a36_about-hero-background-image-ee0dfb841212",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581870/wazemtech/nortera/about-3-6a830727257758eceb263a36_about-hero-background-image-ee0dfb841212.avif",
+      "bytes": 148463,
+      "width": 3840,
+      "height": 1800,
+      "version": 1792581870,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-3-6a830727257758eceb263a36_about-hero-background-image-ee0dfb841212.avif",
+      "verified": true,
+      "deliveryBytes": 128504,
+      "contentType": "image/webp"
+    },
+    "/assets/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1.png": {
+      "source": "/assets/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1.png",
+      "spellings": [
+        "/assets/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1.png"
+      ],
+      "checksum": "add35da10ab62988f7a067f2dda985e7ff1795981ec4378c322520c5eb77424b",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/nortera/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1-add35da10ab6",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581870/wazemtech/nortera/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1-add35da10ab6.png",
+      "bytes": 23497,
+      "width": 120,
+      "height": 120,
+      "version": 1792581870,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581870/wazemtech/nortera/about-6-6a83eed3d850c8af4314d6aa_about-testimonial-avatar-1-add35da10ab6.png",
+      "verified": true,
+      "deliveryBytes": 3498,
+      "contentType": "image/webp"
+    },
+    "/assets/about-7-6a9ff08934447b477d536a7c_about-our-company-image.avif": {
+      "source": "/assets/about-7-6a9ff08934447b477d536a7c_about-our-company-image.avif",
+      "spellings": [
+        "/assets/about-7-6a9ff08934447b477d536a7c_about-our-company-image.avif"
+      ],
+      "checksum": "7a3f9ee764440340763551753bb5ae65766f6f1d2e6422894ebe6b63afa92f21",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-7-6a9ff08934447b477d536a7c_about-our-company-image-7a3f9ee76444",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581871/wazemtech/nortera/about-7-6a9ff08934447b477d536a7c_about-our-company-image-7a3f9ee76444.avif",
+      "bytes": 91146,
+      "width": 708,
+      "height": 606,
+      "version": 1792581871,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581871/wazemtech/nortera/about-7-6a9ff08934447b477d536a7c_about-our-company-image-7a3f9ee76444.avif",
+      "verified": true,
+      "deliveryBytes": 27412,
+      "contentType": "image/webp"
+    },
+    "/assets/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1.avif": {
+      "source": "/assets/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1.avif",
+      "spellings": [
+        "/assets/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1.avif"
+      ],
+      "checksum": "05a7a7ed399b846f15d654460c541a51dffbb5f1f12a2f0785f186d3ae430cb1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1-05a7a7ed399b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581872/wazemtech/nortera/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1-05a7a7ed399b.avif",
+      "bytes": 22751,
+      "width": 379,
+      "height": 233,
+      "version": 1792581872,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581872/wazemtech/nortera/about-9-6a9fd742d7d170f9d0279ac7_about-success-image-1-05a7a7ed399b.avif",
+      "verified": true,
+      "deliveryBytes": 8102,
+      "contentType": "image/webp"
+    },
+    "/assets/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2.avif": {
+      "source": "/assets/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2.avif",
+      "spellings": [
+        "/assets/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2.avif"
+      ],
+      "checksum": "9d7387cf0bbe4282c73b9a9e874aebc14c4fb76b88e1f5c39ba235f422c4cf63",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2-9d7387cf0bbe",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581872/wazemtech/nortera/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2-9d7387cf0bbe.avif",
+      "bytes": 23705,
+      "width": 379,
+      "height": 233,
+      "version": 1792581872,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581872/wazemtech/nortera/about-10-6a9fd74273afd35f9342e5b4_about-success-image-2-9d7387cf0bbe.avif",
+      "verified": true,
+      "deliveryBytes": 7716,
+      "contentType": "image/webp"
+    },
+    "/assets/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3.avif": {
+      "source": "/assets/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3.avif",
+      "spellings": [
+        "/assets/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3.avif"
+      ],
+      "checksum": "bdbc5adddcceedbfc2c1baf49e87b2afa01a069f1e278572ffc5d325a0e7ac8a",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3-bdbc5adddcce",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581873/wazemtech/nortera/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3-bdbc5adddcce.avif",
+      "bytes": 24305,
+      "width": 379,
+      "height": 233,
+      "version": 1792581873,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581873/wazemtech/nortera/about-11-6a9fd742f3bd6f5ed436da4c_about-success-image-3-bdbc5adddcce.avif",
+      "verified": true,
+      "deliveryBytes": 8036,
+      "contentType": "image/webp"
+    },
+    "/assets/about-12-6a9fcb6063997f7b7e416391_about-finance-image.avif": {
+      "source": "/assets/about-12-6a9fcb6063997f7b7e416391_about-finance-image.avif",
+      "spellings": [
+        "/assets/about-12-6a9fcb6063997f7b7e416391_about-finance-image.avif"
+      ],
+      "checksum": "42bdb42ecbd8a58bd09634ab804d226722cc33fc2ff3596745464508a28ce1c0",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-12-6a9fcb6063997f7b7e416391_about-finance-image-42bdb42ecbd8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581874/wazemtech/nortera/about-12-6a9fcb6063997f7b7e416391_about-finance-image-42bdb42ecbd8.avif",
+      "bytes": 61040,
+      "width": 610,
+      "height": 700,
+      "version": 1792581874,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581874/wazemtech/nortera/about-12-6a9fcb6063997f7b7e416391_about-finance-image-42bdb42ecbd8.avif",
+      "verified": true,
+      "deliveryBytes": 20938,
+      "contentType": "image/webp"
+    },
+    "/assets/about-14-6a830727a79cd69bc80d4449_about-financial-challenges-personalized-solutions-image.avif": {
+      "source": "/assets/about-14-6a830727a79cd69bc80d4449_about-financial-challenges-personalized-solutions-image.avif",
+      "spellings": [
+        "/assets/about-14-6a830727a79cd69bc80d4449_about-financial-challenges-personalized-solutions-image.avif"
+      ],
+      "checksum": "f8034553bca7b10e337ad43365020d1bc2a68e94d3c4ae5f98f6e253713525a8",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/bc80d4449_about-financial-challenges-personalized-solutions-image-f8034553bca7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581874/wazemtech/nortera/bc80d4449_about-financial-challenges-personalized-solutions-image-f8034553bca7.avif",
+      "bytes": 114493,
+      "width": 1464,
+      "height": 400,
+      "version": 1792581874,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581874/wazemtech/nortera/bc80d4449_about-financial-challenges-personalized-solutions-image-f8034553bca7.avif",
+      "verified": true,
+      "deliveryBytes": 44468,
+      "contentType": "image/webp"
+    },
+    "/assets/about-13-6a830728b81b3ba8d9f0bed6_about-financial-challenges-experienced-financial-experts-image.avif": {
+      "source": "/assets/about-13-6a830728b81b3ba8d9f0bed6_about-financial-challenges-experienced-financial-experts-image.avif",
+      "spellings": [
+        "/assets/about-13-6a830728b81b3ba8d9f0bed6_about-financial-challenges-experienced-financial-experts-image.avif"
+      ],
+      "checksum": "d57606e38a600066e7d4216814ca410e997c4e3d6e21d47c6a7a5197c84f9034",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/d6_about-financial-challenges-experienced-financial-experts-image-d57606e38a60",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581875/wazemtech/nortera/d6_about-financial-challenges-experienced-financial-experts-image-d57606e38a60.avif",
+      "bytes": 130755,
+      "width": 1464,
+      "height": 400,
+      "version": 1792581875,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581875/wazemtech/nortera/d6_about-financial-challenges-experienced-financial-experts-image-d57606e38a60.avif",
+      "verified": true,
+      "deliveryBytes": 37326,
+      "contentType": "image/webp"
+    },
+    "/assets/about-15-6a8307273176fa4b7047db23_about-financial-challenges-long-term-partnership-image.avif": {
+      "source": "/assets/about-15-6a8307273176fa4b7047db23_about-financial-challenges-long-term-partnership-image.avif",
+      "spellings": [
+        "/assets/about-15-6a8307273176fa4b7047db23_about-financial-challenges-long-term-partnership-image.avif"
+      ],
+      "checksum": "e9f1737f3c9630ad2f02b47d07a268c7d78e22c613885c297c744108d8b70949",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/4b7047db23_about-financial-challenges-long-term-partnership-image-e9f1737f3c96",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581876/wazemtech/nortera/4b7047db23_about-financial-challenges-long-term-partnership-image-e9f1737f3c96.avif",
+      "bytes": 105656,
+      "width": 1464,
+      "height": 400,
+      "version": 1792581876,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/4b7047db23_about-financial-challenges-long-term-partnership-image-e9f1737f3c96.avif",
+      "verified": true,
+      "deliveryBytes": 44236,
+      "contentType": "image/webp"
+    },
+    "/assets/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo.png": {
+      "source": "/assets/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo.png",
+      "spellings": [
+        "/assets/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo.png"
+      ],
+      "checksum": "fe4a6794d41d2f4bd61f2352cdcbcaff34a0e17e01132e5d7d9039d1718def4a",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/nortera/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo-fe4a6794d41d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581876/wazemtech/nortera/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo-fe4a6794d41d.png",
+      "bytes": 8967102,
+      "width": 3000,
+      "height": 2260,
+      "version": 1792581876,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/about-8-6a83e15ec6fecc5d3f23331e_about-drives-photo-fe4a6794d41d.png",
+      "verified": true,
+      "deliveryBytes": 120276,
+      "contentType": "image/webp"
+    },
+    "/assets/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1.avif": {
+      "source": "/assets/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1.avif",
+      "spellings": [
+        "/assets/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1.avif"
+      ],
+      "checksum": "831e82545a6186d4d80ee8f4e9daf853711d252c4d1afa5be41592c7c30325f9",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1-831e82545a61",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581876/wazemtech/nortera/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1-831e82545a61.avif",
+      "bytes": 54883,
+      "width": 928,
+      "height": 960,
+      "version": 1792581876,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/about-16-6a9fae0fe11f87d01bb417d0_about-testimonial-image-1-831e82545a61.avif",
+      "verified": true,
+      "deliveryBytes": 33812,
+      "contentType": "image/webp"
+    },
+    "/assets/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2.avif": {
+      "source": "/assets/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2.avif",
+      "spellings": [
+        "/assets/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2.avif"
+      ],
+      "checksum": "4afcedd5888ae8b1a084d69e9799a4cb3c901d72c8a9a4026ddccda3e064bd28",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2-4afcedd5888a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581876/wazemtech/nortera/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2-4afcedd5888a.avif",
+      "bytes": 26518,
+      "width": 464,
+      "height": 480,
+      "version": 1792581876,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581876/wazemtech/nortera/about-17-6a9fae0f51b6d04251e866c9_about-testimonial-image-2-4afcedd5888a.avif",
+      "verified": true,
+      "deliveryBytes": 12796,
+      "contentType": "image/webp"
+    },
+    "/assets/about-19-6a9fae0f118301788f976386_about-testimonial-image-3.avif": {
+      "source": "/assets/about-19-6a9fae0f118301788f976386_about-testimonial-image-3.avif",
+      "spellings": [
+        "/assets/about-19-6a9fae0f118301788f976386_about-testimonial-image-3.avif"
+      ],
+      "checksum": "3bab12212e8b81f00d93336675363f09bfd19691277d2d84015ec72bf3f4567e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-19-6a9fae0f118301788f976386_about-testimonial-image-3-3bab12212e8b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581877/wazemtech/nortera/about-19-6a9fae0f118301788f976386_about-testimonial-image-3-3bab12212e8b.avif",
+      "bytes": 42538,
+      "width": 464,
+      "height": 480,
+      "version": 1792581877,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581877/wazemtech/nortera/about-19-6a9fae0f118301788f976386_about-testimonial-image-3-3bab12212e8b.avif",
+      "verified": true,
+      "deliveryBytes": 17510,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3.avif": {
+      "source": "/assets/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3.avif",
+      "spellings": [
+        "/assets/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3.avif"
+      ],
+      "checksum": "a27888c562348f0a86783f1ca7c3509f8e03deff9438c2b6ae3484ca550b658c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3-a27888c56234",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581878/wazemtech/nortera/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3-a27888c56234.avif",
+      "bytes": 119724,
+      "width": 1416,
+      "height": 800,
+      "version": 1792581878,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/blog-4-6a9eb3b93b680bf8c58bd897_blog-card-image-3-a27888c56234.avif",
+      "verified": true,
+      "deliveryBytes": 93312,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image.avif": {
+      "source": "/assets/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image.avif",
+      "spellings": [
+        "/assets/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image.avif"
+      ],
+      "checksum": "9d5f266a32d172fda73f03914b474837c31ae2690b50e2131be42e58bc5e301e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image-9d5f266a32d1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581878/wazemtech/nortera/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image-9d5f266a32d1.avif",
+      "bytes": 151962,
+      "width": 3840,
+      "height": 1800,
+      "version": 1792581878,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/blog-3-6a8442ae4284ca562f6f2bbb_blog-hero-background-image-9d5f266a32d1.avif",
+      "verified": true,
+      "deliveryBytes": 82748,
+      "contentType": "image/webp"
+    },
+    "/assets/about-20-6a85365619baac91e730ce87_pricing-cta-image.avif": {
+      "source": "/assets/about-20-6a85365619baac91e730ce87_pricing-cta-image.avif",
+      "spellings": [
+        "/assets/about-20-6a85365619baac91e730ce87_pricing-cta-image.avif"
+      ],
+      "checksum": "cdd3f3b0cf998066a1bb3f0912b39ca8b367485802586ee0941a526a332426ac",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/about-20-6a85365619baac91e730ce87_pricing-cta-image-cdd3f3b0cf99",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581878/wazemtech/nortera/about-20-6a85365619baac91e730ce87_pricing-cta-image-cdd3f3b0cf99.avif",
+      "bytes": 151204,
+      "width": 1368,
+      "height": 820,
+      "version": 1792581878,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/about-20-6a85365619baac91e730ce87_pricing-cta-image-cdd3f3b0cf99.avif",
+      "verified": true,
+      "deliveryBytes": 84134,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-5-6a9eb38feb95452345d88935_blog-card-image-1.avif": {
+      "source": "/assets/blog-5-6a9eb38feb95452345d88935_blog-card-image-1.avif",
+      "spellings": [
+        "/assets/blog-5-6a9eb38feb95452345d88935_blog-card-image-1.avif"
+      ],
+      "checksum": "e367f920082c425a5c4840f73b761e0156027f0d0650a747ce64ee898a361b43",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-5-6a9eb38feb95452345d88935_blog-card-image-1-e367f920082c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581878/wazemtech/nortera/blog-5-6a9eb38feb95452345d88935_blog-card-image-1-e367f920082c.avif",
+      "bytes": 119316,
+      "width": 1416,
+      "height": 800,
+      "version": 1792581878,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581878/wazemtech/nortera/blog-5-6a9eb38feb95452345d88935_blog-card-image-1-e367f920082c.avif",
+      "verified": true,
+      "deliveryBytes": 78158,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2.avif": {
+      "source": "/assets/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2.avif",
+      "spellings": [
+        "/assets/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2.avif"
+      ],
+      "checksum": "20f9d886f470f9194d67383169fb87d66aa3029aa5ae05905e6c0053306eafba",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2-20f9d886f470",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581879/wazemtech/nortera/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2-20f9d886f470.avif",
+      "bytes": 86128,
+      "width": 1416,
+      "height": 800,
+      "version": 1792581879,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581879/wazemtech/nortera/blog-6-6a9eb3a3a7af5ad04e777535_blog-card-image-2-20f9d886f470.avif",
+      "verified": true,
+      "deliveryBytes": 50034,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4.avif": {
+      "source": "/assets/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4.avif",
+      "spellings": [
+        "/assets/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4.avif"
+      ],
+      "checksum": "3bbb639fa01b9f97aaf5a0f7c7c88a118a7601a44a82e61b4a5974602aa982e1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4-3bbb639fa01b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4-3bbb639fa01b.avif",
+      "bytes": 98481,
+      "width": 1416,
+      "height": 800,
+      "version": 1792581880,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581880/wazemtech/nortera/blog-7-6a9eb3d30a7f44ed565ed26c_blog-card-image-4-3bbb639fa01b.avif",
+      "verified": true,
+      "deliveryBytes": 87092,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5.avif": {
+      "source": "/assets/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5.avif",
+      "spellings": [
+        "/assets/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5.avif"
+      ],
+      "checksum": "e100d5d19afd0a0c7a8932915f8b73ce4db21c5d1ae1d11d62a90d474d5f3447",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5-e100d5d19afd",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5-e100d5d19afd.avif",
+      "bytes": 84859,
+      "width": 1416,
+      "height": 800,
+      "version": 1792581880,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581880/wazemtech/nortera/blog-8-6a9eb3e85e005400aa9c635e_blog-card-image-5-e100d5d19afd.avif",
+      "verified": true,
+      "deliveryBytes": 61274,
+      "contentType": "image/webp"
+    },
+    "/assets/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6.avif": {
+      "source": "/assets/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6.avif",
+      "spellings": [
+        "/assets/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6.avif"
+      ],
+      "checksum": "235a19c1fdac5bd0e6bd4f60b0dae05004053089ff520b025c953f66f6692ac4",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6-235a19c1fdac",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6-235a19c1fdac.avif",
+      "bytes": 94657,
+      "width": 1416,
+      "height": 800,
+      "version": 1792581880,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581880/wazemtech/nortera/blog-9-6a9eb3fbbb51499f86c95b9d_blog-card-image-6-235a19c1fdac.avif",
+      "verified": true,
+      "deliveryBytes": 75230,
+      "contentType": "image/webp"
+    },
+    "/assets/contact-4-6a7416cf1ade939ac156a571_Button-icon.svg": {
+      "source": "/assets/contact-4-6a7416cf1ade939ac156a571_Button-icon.svg",
+      "spellings": [
+        "/assets/contact-4-6a7416cf1ade939ac156a571_Button-icon.svg"
+      ],
+      "checksum": "eef0cbe5123b4418b3eefea1da3837d453fcf0ab6614d0d8fb8aab0d9e481a5d",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/nortera/contact-4-6a7416cf1ade939ac156a571_Button-icon-eef0cbe5123b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/contact-4-6a7416cf1ade939ac156a571_Button-icon-eef0cbe5123b.svg",
+      "bytes": 271,
+      "width": 10,
+      "height": 10,
+      "version": 1792581880,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581880/wazemtech/nortera/contact-4-6a7416cf1ade939ac156a571_Button-icon-eef0cbe5123b.svg",
+      "verified": true,
+      "deliveryBytes": 271,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image.avif": {
+      "source": "/assets/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image.avif",
+      "spellings": [
+        "/assets/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image.avif"
+      ],
+      "checksum": "bbb8f3efe8f945cc217a7fc46546f515cea7135b240f22427a3d9c81fc6251c1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image-bbb8f3efe8f9",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581882/wazemtech/nortera/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image-bbb8f3efe8f9.avif",
+      "bytes": 5894,
+      "width": 130,
+      "height": 130,
+      "version": 1792581882,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581882/wazemtech/nortera/contact-5-6a9acb81c1f8ee98fa3d915e_contact-avatar-image-bbb8f3efe8f9.avif",
+      "verified": true,
+      "deliveryBytes": 1592,
+      "contentType": "image/webp"
+    },
+    "/assets/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image.avif": {
+      "source": "/assets/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image.avif",
+      "spellings": [
+        "/assets/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image.avif"
+      ],
+      "checksum": "aecc4c60bca76b682b32041756a61d7d32b45e47a53847c79a27f8eef0736d10",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image-aecc4c60bca7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581882/wazemtech/nortera/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image-aecc4c60bca7.avif",
+      "bytes": 127201,
+      "width": 1920,
+      "height": 900,
+      "version": 1792581882,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581882/wazemtech/nortera/contact-3-6aacfae59ea720aa379a6de6_contact-page-hero-banner-image-aecc4c60bca7.avif",
+      "verified": true,
+      "deliveryBytes": 114414,
+      "contentType": "image/webp"
+    },
+    "/assets/404-3-6a853f76d9404cabc93e96fe_404-image.avif": {
+      "source": "/assets/404-3-6a853f76d9404cabc93e96fe_404-image.avif",
+      "spellings": [
+        "/assets/404-3-6a853f76d9404cabc93e96fe_404-image.avif"
+      ],
+      "checksum": "92c77165ad040745e7183b0b84120921c562704aad6faf4887558b3f255bd2c3",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/404-3-6a853f76d9404cabc93e96fe_404-image-92c77165ad04",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581882/wazemtech/nortera/404-3-6a853f76d9404cabc93e96fe_404-image-92c77165ad04.avif",
+      "bytes": 146544,
+      "width": 1416,
+      "height": 1600,
+      "version": 1792581882,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581882/wazemtech/nortera/404-3-6a853f76d9404cabc93e96fe_404-image-92c77165ad04.avif",
+      "verified": true,
+      "deliveryBytes": 146544,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581882/wazemtech/nortera/404-3-6a853f76d9404cabc93e96fe_404-image-92c77165ad04.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/39-6a7437832d38f1d4f9678bca_home-cta.avif": {
+      "source": "/assets/39-6a7437832d38f1d4f9678bca_home-cta.avif",
+      "spellings": [
+        "/assets/39-6a7437832d38f1d4f9678bca_home-cta.avif"
+      ],
+      "checksum": "dfed6aaaa29e64f9bfd4b6e04801965c62f1f19953f14eb16f231235700d3746",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/39-6a7437832d38f1d4f9678bca_home-cta-dfed6aaaa29e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581882/wazemtech/nortera/39-6a7437832d38f1d4f9678bca_home-cta-dfed6aaaa29e.avif",
+      "bytes": 24438,
+      "width": 3800,
+      "height": 1178,
+      "version": 1792581882,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581882/wazemtech/nortera/39-6a7437832d38f1d4f9678bca_home-cta-dfed6aaaa29e.avif",
+      "verified": true,
+      "deliveryBytes": 7554,
+      "contentType": "image/webp"
+    },
+    "/assets/40-6a9e677382dc3fb45c0a48bd_cta-3-background.avif": {
+      "source": "/assets/40-6a9e677382dc3fb45c0a48bd_cta-3-background.avif",
+      "spellings": [
+        "/assets/40-6a9e677382dc3fb45c0a48bd_cta-3-background.avif"
+      ],
+      "checksum": "899447f71cf0c9858cb5a8d400bebf1c81ecc150aad44796276e0edee4a1c01d",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/40-6a9e677382dc3fb45c0a48bd_cta-3-background-899447f71cf0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581883/wazemtech/nortera/40-6a9e677382dc3fb45c0a48bd_cta-3-background-899447f71cf0.avif",
+      "bytes": 5115,
+      "width": 1900,
+      "height": 734,
+      "version": 1792581883,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581883/wazemtech/nortera/40-6a9e677382dc3fb45c0a48bd_cta-3-background-899447f71cf0.avif",
+      "verified": true,
+      "deliveryBytes": 5115,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581883/wazemtech/nortera/40-6a9e677382dc3fb45c0a48bd_cta-3-background-899447f71cf0.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/45-6a7d9a25d57461d4ad880586_home-one-why-choose-us-card-background-image.avif": {
+      "source": "/assets/45-6a7d9a25d57461d4ad880586_home-one-why-choose-us-card-background-image.avif",
+      "spellings": [
+        "/assets/45-6a7d9a25d57461d4ad880586_home-one-why-choose-us-card-background-image.avif"
+      ],
+      "checksum": "42bc8ec8a312a7ddfe78127f54a4fdfefa518ef8d7a78256bd746713cfb96363",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/9a25d57461d4ad880586_home-one-why-choose-us-card-background-image-42bc8ec8a312",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581884/wazemtech/nortera/9a25d57461d4ad880586_home-one-why-choose-us-card-background-image-42bc8ec8a312.avif",
+      "bytes": 145925,
+      "width": 1416,
+      "height": 1574,
+      "version": 1792581884,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581884/wazemtech/nortera/9a25d57461d4ad880586_home-one-why-choose-us-card-background-image-42bc8ec8a312.avif",
+      "verified": true,
+      "deliveryBytes": 123846,
+      "contentType": "image/webp"
+    },
+    "/assets/44-6a857e0033361f15af832730_home-one-case-study-card-dashboard-background.avif": {
+      "source": "/assets/44-6a857e0033361f15af832730_home-one-case-study-card-dashboard-background.avif",
+      "spellings": [
+        "/assets/44-6a857e0033361f15af832730_home-one-case-study-card-dashboard-background.avif"
+      ],
+      "checksum": "7af63c3ece489a2acac8f8df9f5ec172984cbedab65fbbc318101baf55affe05",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/e0033361f15af832730_home-one-case-study-card-dashboard-background-7af63c3ece48",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581884/wazemtech/nortera/e0033361f15af832730_home-one-case-study-card-dashboard-background-7af63c3ece48.avif",
+      "bytes": 147387,
+      "width": 644,
+      "height": 488,
+      "version": 1792581884,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581884/wazemtech/nortera/e0033361f15af832730_home-one-case-study-card-dashboard-background-7af63c3ece48.avif",
+      "verified": true,
+      "deliveryBytes": 24008,
+      "contentType": "image/webp"
+    },
+    "/assets/47-6a9fcec3b541cb371e2e1550_about-investment-box-background.avif": {
+      "source": "/assets/47-6a9fcec3b541cb371e2e1550_about-investment-box-background.avif",
+      "spellings": [
+        "/assets/47-6a9fcec3b541cb371e2e1550_about-investment-box-background.avif"
+      ],
+      "checksum": "e855e3a57069c68c41e8a10ffe19505933380efeb2debe9b01cc7df5398ca325",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/nortera/47-6a9fcec3b541cb371e2e1550_about-investment-box-background-e855e3a57069",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581884/wazemtech/nortera/47-6a9fcec3b541cb371e2e1550_about-investment-box-background-e855e3a57069.avif",
+      "bytes": 34227,
+      "width": 570,
+      "height": 132,
+      "version": 1792581884,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581884/wazemtech/nortera/47-6a9fcec3b541cb371e2e1550_about-investment-box-background-e855e3a57069.avif",
+      "verified": true,
+      "deliveryBytes": 8756,
+      "contentType": "image/webp"
+    },
+    "/assets/38-6a71d7db902a8772266ca468_Merchant-Regular.woff2": {
+      "source": "/assets/38-6a71d7db902a8772266ca468_Merchant-Regular.woff2",
+      "spellings": [
+        "/assets/38-6a71d7db902a8772266ca468_Merchant-Regular.woff2"
+      ],
+      "checksum": "796ec698c5d3613cd8c987b9f28191c295f789031906664736b7dc8449f1227e",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/nortera/38-6a71d7db902a8772266ca468_Merchant-Regular-796ec698c5d3.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582019/wazemtech/nortera/38-6a71d7db902a8772266ca468_Merchant-Regular-796ec698c5d3.woff2",
+      "bytes": 21516,
+      "version": 1792582019,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582019/wazemtech/nortera/38-6a71d7db902a8772266ca468_Merchant-Regular-796ec698c5d3.woff2",
+      "verified": true,
+      "deliveryBytes": 21516,
+      "contentType": "font/woff2"
+    },
+    "/assets/49-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.woff2": {
+      "source": "/assets/49-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.woff2",
+      "spellings": [
+        "/assets/49-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.woff2"
+      ],
+      "checksum": "5bc21fc55f89f2de2f26192494df59830ccaeb1cb0d5ad0430a7bbbe79899604",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli-5bc21fc55f89.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582020/wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli-5bc21fc55f89.woff2",
+      "bytes": 450188,
+      "version": 1792582020,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582020/wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli-5bc21fc55f89.woff2",
+      "verified": true,
+      "deliveryBytes": 450188,
+      "contentType": "font/woff2"
+    },
+    "/assets/50-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli.woff2": {
+      "source": "/assets/50-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli.woff2",
+      "spellings": [
+        "/assets/50-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli.woff2"
+      ],
+      "checksum": "99e4eb31b253f798b27322ae6319d483109e84ff7cf405d749d4e0a467f21d8d",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli-99e4eb31b253.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582020/wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli-99e4eb31b253.woff2",
+      "bytes": 508972,
+      "version": 1792582020,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582020/wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli-99e4eb31b253.woff2",
+      "verified": true,
+      "deliveryBytes": 508972,
+      "contentType": "font/woff2"
+    },
+    "/assets/51-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li.woff2": {
+      "source": "/assets/51-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li.woff2",
+      "spellings": [
+        "/assets/51-4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li.woff2"
+      ],
+      "checksum": "ed7136527eb6c69b33d84574b78cb04f7cade0b489f55600214af49723f745b1",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li-ed7136527eb6.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582020/wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li-ed7136527eb6.woff2",
+      "bytes": 525640,
+      "version": 1792582020,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582020/wazemtech/nortera/lGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li-ed7136527eb6.woff2",
+      "verified": true,
+      "deliveryBytes": 525640,
+      "contentType": "font/woff2"
+    }
+  }
+}
